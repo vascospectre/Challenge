@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//dt[text()='Dimensões']/following-sibling::dd/p"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//dt[text()='Autor']/following-sibling::dd/p/a"
+}

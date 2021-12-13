@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//dt[text()='Nº Páginas']/following-sibling::dd/p"
+}

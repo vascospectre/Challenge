@@ -4,10 +4,9 @@ Feature: GoContact Challenge in Fnac WebPage
     Given I am on the homepage
     When I search by "George"
     And I change the view 
-    And I validate that "Fascism and Democracy" appear in the results
-    And I validate that the book have "world" in description
+    And That "Fascism and Democracy" appear in the results and has "word" in description 
  
- Scenario: Search for 1984 book and verify characteristics
+  Scenario: Search for 1984 book and verify characteristics
     Given I am on the homepage
     When I search by "1984"
     Then I choose the book "1984" in the results

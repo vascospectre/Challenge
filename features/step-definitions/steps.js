@@ -20,14 +20,9 @@ When(/^I change the view$/, () => {
 	browser.pause(20000);
 	homePageActions.clickNext();
 });
-
-Then(/^I validate that "(.*)" appear in the results$/, (searchString) => {
-	browser.pause(10000);
-	searchPageValidations.validateBookExists(searchString);
-});
-
-Then(/^I validate that the book have "(.*)" in description$/, (searchString) => {
-	searchPageValidations.validateDescription(searchString);
+Then(/^That "(.*)" appear in the results and has "(.*)" in description$/, (searchBook, searchWord) => {
+	browser.pause(5000);
+	searchPageValidations.validateBookExists(searchBook, searchWord);
 });
 
 Then(/^I choose the book "(.*)" in the results$/, (searchString) => {
