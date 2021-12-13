@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[@data-automation-id=\"txt-basketsummary-article-quantity\"]\"}\n  (Session info: chrome=96.0.4664.93)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x008C6903+2517251]\n\tOrdinal0 [0x0085F8E1+2095329]\n\tOrdinal0 [0x00762848+1058888]\n\tOrdinal0 [0x0078D448+1233992]\n\tOrdinal0 [0x0078D63B+1234491]\n\tOrdinal0 [0x007B7812+1406994]\n\tOrdinal0 [0x007A650A+1336586]\n\tOrdinal0 [0x007B5BBF+1399743]\n\tOrdinal0 [0x007A639B+1336219]\n\tOrdinal0 [0x007827A7+1189799]\n\tOrdinal0 [0x00783609+1193481]\n\tGetHandleVerifier [0x00A55904+1577972]\n\tGetHandleVerifier [0x00B00B97+2279047]\n\tGetHandleVerifier [0x00956D09+534521]\n\tGetHandleVerifier [0x00955DB9+530601]\n\tOrdinal0 [0x00864FF9+2117625]\n\tOrdinal0 [0x008698A8+2136232]\n\tOrdinal0 [0x008699E2+2136546]\n\tOrdinal0 [0x00873541+2176321]\n\tBaseThreadInitThunk [0x7577FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77357A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77357A6E+238]\n"
+}

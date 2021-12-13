@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//li[@class=\"customerReviewChart__item\"]//span[text()=\"1\"]/../../div/span[@class=\"customerReviewChart__value\"]"
+}
