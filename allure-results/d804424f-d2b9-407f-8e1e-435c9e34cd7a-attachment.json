@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"mrg_t_lg\"]/p/span"
+}
