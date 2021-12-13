@@ -41,8 +41,8 @@ Challenge(Root directory)\
 * Chrome 96.0.4664.93 - (https://www.google.com/chrome/)
 
 ## Help pages that can be useful
-Java - https://www.java.com/en/\
-Reporting - Allure - https://docs.qameta.io/allure/#_reporting
+Java - (https://www.java.com/en/)\
+Reporting - Allure - (https://docs.qameta.io/allure/#_reporting)\
 
 
 ## How to install dependencies:
@@ -52,11 +52,7 @@ npm install
 npm run test
 
 ## How to generate Allure reports:
-npm run allure:generate\
-OR\
-allure generate 
+npm run allure:generate OR allure generate 
 
 ## How to view Allure reports:
-npm run allure:open\ 
-OR\
-allure open
+npm run allure:open OR allure open
