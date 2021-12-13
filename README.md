@@ -52,11 +52,11 @@ npm install
 npm run test
 
 ## How to generate Allure reports:
-npm run allure:generate 
-OR
+npm run allure:generate \n
+OR \n
 allure generate 
 
 ## How to view Allure reports:
-npm run allure:open
-OR
+npm run allure:open \n
+OR \n
 allure open
