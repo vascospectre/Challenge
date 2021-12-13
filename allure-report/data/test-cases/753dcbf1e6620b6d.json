@@ -1,0 +1,114 @@
+{
+  "uid" : "753dcbf1e6620b6d",
+  "name" : "And I verify if the postal code is \"2810-354\"",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon.And I verify if the postal code is \"2810-354\"",
+  "historyId" : "fdf25b66bfa171f5b8077c23502922b4",
+  "time" : {
+    "start" : 1639180616331,
+    "stop" : 1639180616387,
+    "duration" : 56
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639180616331,
+        "stop" : 1639180616350,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2365521bfcc67157",
+        "name" : "Request",
+        "source" : "2365521bfcc67157.json",
+        "type" : "application/json",
+        "size" : 62
+      }, {
+        "uid" : "bc93cd2dbbfe9f9c",
+        "name" : "Response",
+        "source" : "bc93cd2dbbfe9f9c.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/f352b07c-c280-4304-af47-1c95531c31af/text",
+      "time" : {
+        "start" : 1639180616352,
+        "stop" : 1639180616386,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d88315569093d001",
+        "name" : "Response",
+        "source" : "d88315569093d001.json",
+        "type" : "application/json",
+        "size" : 109
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify if the postal code is \"2810-354\""
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "753dcbf1e6620b6d.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

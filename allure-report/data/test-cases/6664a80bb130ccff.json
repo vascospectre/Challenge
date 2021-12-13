@@ -1,0 +1,285 @@
+{
+  "uid" : "6664a80bb130ccff",
+  "name" : "And I verify if the postal code is \"2810-354\"",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon.And I verify if the postal code is \"2810-354\"",
+  "historyId" : "fdf25b66bfa171f5b8077c23502922b4",
+  "time" : {
+    "start" : 1639183520861,
+    "stop" : 1639183520911,
+    "duration" : 50
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183520862,
+        "stop" : 1639183520886,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5da06e568ac0bea3",
+        "name" : "Request",
+        "source" : "5da06e568ac0bea3.json",
+        "type" : "application/json",
+        "size" : 62
+      }, {
+        "uid" : "dfdd34ccb347dcbf",
+        "name" : "Response",
+        "source" : "dfdd34ccb347dcbf.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/f5b84209-9974-4758-b2b0-c146bb5da2cf/text",
+      "time" : {
+        "start" : 1639183520887,
+        "stop" : 1639183520911,
+        "duration" : 24
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5d36c90251a531e6",
+        "name" : "Response",
+        "source" : "5d36c90251a531e6.json",
+        "type" : "application/json",
+        "size" : 109
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify if the postal code is \"2810-354\""
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "988e9e0bde6358c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182734313,
+        "stop" : 1639182734364,
+        "duration" : 51
+      }
+    }, {
+      "uid" : "29bf2e9d156b7e7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182534818,
+        "stop" : 1639182534869,
+        "duration" : 51
+      }
+    }, {
+      "uid" : "c9969a32a1816e6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182221558,
+        "stop" : 1639182221610,
+        "duration" : 52
+      }
+    }, {
+      "uid" : "121704c95e537c0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182095287,
+        "stop" : 1639182095339,
+        "duration" : 52
+      }
+    }, {
+      "uid" : "90987594ead0ec9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181958399,
+        "stop" : 1639181958450,
+        "duration" : 51
+      }
+    }, {
+      "uid" : "bdcb602e6a35b4a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181815974,
+        "stop" : 1639181816027,
+        "duration" : 53
+      }
+    }, {
+      "uid" : "8b8f51a17d9c38a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181769323,
+        "stop" : 1639181769381,
+        "duration" : 58
+      }
+    }, {
+      "uid" : "94295f829e1e1ded",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181481327,
+        "stop" : 1639181481382,
+        "duration" : 55
+      }
+    }, {
+      "uid" : "3ca7a455555253be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181282436,
+        "stop" : 1639181282480,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "dd18fe1396fc4c4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181061212,
+        "stop" : 1639181061269,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "788d9f604e8ea569",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180781553,
+        "stop" : 1639180781606,
+        "duration" : 53
+      }
+    }, {
+      "uid" : "62cd9bea1adabacf",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639180716949,
+        "stop" : 1639180716949,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "753dcbf1e6620b6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180616331,
+        "stop" : 1639180616387,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "cd3ac2ea0e35409f",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639180593104,
+        "stop" : 1639180593104,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "63222e0205666c11",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639180515445,
+        "stop" : 1639180515445,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f6fbfe3c33c60809",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179839279,
+        "stop" : 1639179839326,
+        "duration" : 47
+      }
+    }, {
+      "uid" : "b29c62af3cfcd286",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179661247,
+        "stop" : 1639179661305,
+        "duration" : 58
+      }
+    }, {
+      "uid" : "11ae024c963d248b",
+      "status" : "broken",
+      "statusDetails" : "Error: Can't call getText on element with selector \"//div[@class=\"adresse\"]/p/p\" because element wasn't found",
+      "time" : {
+        "start" : 1639179499604,
+        "stop" : 1639179509642,
+        "duration" : 10038
+      }
+    }, {
+      "uid" : "d5843510ab616e21",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639177865665,
+        "stop" : 1639177865665,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "739651e8af6ff9e1",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639177635816,
+        "stop" : 1639177635816,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a55ea3afaa786605",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639177586985,
+        "stop" : 1639177586986,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6664a80bb130ccff.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

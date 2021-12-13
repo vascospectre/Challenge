@@ -1,0 +1,264 @@
+{
+  "uid" : "fdfa4c38bf861156",
+  "name" : "When I search by \"Fascism and Democracy\"",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price.When I search by \"Fascism and Democracy\"",
+  "historyId" : "b7d35b64d034569534b60bd9b9c4c0d6",
+  "time" : {
+    "start" : 1639182699622,
+    "stop" : 1639182701531,
+    "duration" : 1909
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639182699623,
+        "stop" : 1639182699648,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "aed8a22aabcf83a7",
+        "name" : "Request",
+        "source" : "aed8a22aabcf83a7.json",
+        "type" : "application/json",
+        "size" : 65
+      }, {
+        "uid" : "d91e3b0e31c49454",
+        "name" : "Response",
+        "source" : "d91e3b0e31c49454.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639182699653,
+        "stop" : 1639182699662,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2bbce210bc5244a7",
+        "name" : "Request",
+        "source" : "2bbce210bc5244a7.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "25bb0edd4c9da229",
+        "name" : "Response",
+        "source" : "25bb0edd4c9da229.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639182699662,
+        "stop" : 1639182699678,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9612c47a98a498b9",
+        "name" : "Request",
+        "source" : "9612c47a98a498b9.json",
+        "type" : "application/json",
+        "size" : 4285
+      }, {
+        "uid" : "e94326e00b7dbcab",
+        "name" : "Response",
+        "source" : "e94326e00b7dbcab.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/7e9b27f2-38ae-437f-941c-fbbee39f8a8b/value",
+      "time" : {
+        "start" : 1639182699681,
+        "stop" : 1639182699734,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6efb21d4e7b7725a",
+        "name" : "Request",
+        "source" : "6efb21d4e7b7725a.json",
+        "type" : "application/json",
+        "size" : 37
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639182699735,
+        "stop" : 1639182699757,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "662366cbe700bd89",
+        "name" : "Request",
+        "source" : "662366cbe700bd89.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "677db2531dd4efbe",
+        "name" : "Response",
+        "source" : "677db2531dd4efbe.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639182699759,
+        "stop" : 1639182699766,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8e5144b628abc997",
+        "name" : "Request",
+        "source" : "8e5144b628abc997.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "aba02346311fb5e5",
+        "name" : "Response",
+        "source" : "aba02346311fb5e5.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639182699767,
+        "stop" : 1639182699777,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3ca3da19f6d06b2e",
+        "name" : "Request",
+        "source" : "3ca3da19f6d06b2e.json",
+        "type" : "application/json",
+        "size" : 4285
+      }, {
+        "uid" : "7385eb24c1b6f63c",
+        "name" : "Response",
+        "source" : "7385eb24c1b6f63c.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/0eaa8244-395d-4ddb-b375-43afb2a1ec9f/click",
+      "time" : {
+        "start" : 1639182699778,
+        "stop" : 1639182701531,
+        "duration" : 1753
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 13
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search by \"Fascism and Democracy\""
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdfa4c38bf861156.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

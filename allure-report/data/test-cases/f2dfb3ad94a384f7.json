@@ -1,0 +1,305 @@
+{
+  "uid" : "f2dfb3ad94a384f7",
+  "name" : "Then I choose the Almada store",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon.Then I choose the Almada store",
+  "historyId" : "12306c25ba6c716e7346378125e1a2b",
+  "time" : {
+    "start" : 1639183514789,
+    "stop" : 1639183520861,
+    "duration" : 6072
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183519801,
+        "stop" : 1639183519812,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "150b4ace106a70c1",
+        "name" : "Request",
+        "source" : "150b4ace106a70c1.json",
+        "type" : "application/json",
+        "size" : 109
+      }, {
+        "uid" : "f22d44a9f56929ca",
+        "name" : "Response",
+        "source" : "f22d44a9f56929ca.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639183519814,
+        "stop" : 1639183519818,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d5311d43fd3c740e",
+        "name" : "Request",
+        "source" : "d5311d43fd3c740e.json",
+        "type" : "application/json",
+        "size" : 357
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element/bc5fc33c-053b-40ed-ad3e-eccb80f4196a/click",
+      "time" : {
+        "start" : 1639183519818,
+        "stop" : 1639183520861,
+        "duration" : 1043
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I choose the Almada store"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "966653c1420886ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182728255,
+        "stop" : 1639182734313,
+        "duration" : 6058
+      }
+    }, {
+      "uid" : "de2c63347430c937",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182528775,
+        "stop" : 1639182534818,
+        "duration" : 6043
+      }
+    }, {
+      "uid" : "6c20d5f0823147c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182215207,
+        "stop" : 1639182221558,
+        "duration" : 6351
+      }
+    }, {
+      "uid" : "f646d8b2554a821b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182089255,
+        "stop" : 1639182095287,
+        "duration" : 6032
+      }
+    }, {
+      "uid" : "2797161195c7cfbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181952216,
+        "stop" : 1639181958399,
+        "duration" : 6183
+      }
+    }, {
+      "uid" : "2092d77d6a09770",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181809894,
+        "stop" : 1639181815973,
+        "duration" : 6079
+      }
+    }, {
+      "uid" : "747339fee031b45b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181763238,
+        "stop" : 1639181769323,
+        "duration" : 6085
+      }
+    }, {
+      "uid" : "7a0e02afb348b79d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181474927,
+        "stop" : 1639181481327,
+        "duration" : 6400
+      }
+    }, {
+      "uid" : "abd216bfdc84b778",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181276393,
+        "stop" : 1639181282435,
+        "duration" : 6042
+      }
+    }, {
+      "uid" : "dc8fb99a136872aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181055100,
+        "stop" : 1639181061212,
+        "duration" : 6112
+      }
+    }, {
+      "uid" : "630aeea35f947c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180773507,
+        "stop" : 1639180781553,
+        "duration" : 8046
+      }
+    }, {
+      "uid" : "ac06f06d3ea6f403",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a class=\"StoreFinder-shopLink\" href=\"https://www.fnac.pt/Fnac-.../Fnac-Almada/cl7/w-4\">Almada</a> is not clickable at point (80, 33). Other element would receive the click: <section class=\"kPopin\">...</section>",
+      "time" : {
+        "start" : 1639180707776,
+        "stop" : 1639180716949,
+        "duration" : 9173
+      }
+    }, {
+      "uid" : "28b0b17899e8c17c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180609232,
+        "stop" : 1639180616331,
+        "duration" : 7099
+      }
+    }, {
+      "uid" : "743228f68b2e28c0",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a class=\"StoreFinder-shopLink\" href=\"https://www.fnac.pt/Fnac-.../Fnac-Almada/cl7/w-4\">Almada</a> is not clickable at point (80, 33). Other element would receive the click: <section class=\"kPopin\">...</section>",
+      "time" : {
+        "start" : 1639180583928,
+        "stop" : 1639180593104,
+        "duration" : 9176
+      }
+    }, {
+      "uid" : "4f81133899164f6b",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a class=\"StoreFinder-shopLink\" href=\"https://www.fnac.pt/Fnac-.../Fnac-Almada/cl7/w-4\">Almada</a> is not clickable at point (80, 33). Other element would receive the click: <section class=\"kPopin\">...</section>",
+      "time" : {
+        "start" : 1639180506277,
+        "stop" : 1639180515445,
+        "duration" : 9168
+      }
+    }, {
+      "uid" : "a09bf28ec7e35745",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179833153,
+        "stop" : 1639179839278,
+        "duration" : 6125
+      }
+    }, {
+      "uid" : "889fae3473ad57c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179655155,
+        "stop" : 1639179661247,
+        "duration" : 6092
+      }
+    }, {
+      "uid" : "2f121cdae880406b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179488419,
+        "stop" : 1639179499604,
+        "duration" : 11185
+      }
+    }, {
+      "uid" : "62fcbbcd8b6c01dc",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1639177855616,
+        "stop" : 1639177865665,
+        "duration" : 10049
+      }
+    }, {
+      "uid" : "9fd5f9a9c1c592a6",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1639177625769,
+        "stop" : 1639177635816,
+        "duration" : 10047
+      }
+    }, {
+      "uid" : "6a99518407c6d5ac",
+      "status" : "broken",
+      "statusDetails" : "element not interactable",
+      "time" : {
+        "start" : 1639177586927,
+        "stop" : 1639177586985,
+        "duration" : 58
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2dfb3ad94a384f7.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

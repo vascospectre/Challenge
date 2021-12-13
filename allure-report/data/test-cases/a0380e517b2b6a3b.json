@@ -1,0 +1,118 @@
+{
+  "uid" : "a0380e517b2b6a3b",
+  "name" : "And I verify that the store is schedule is from ten to eleven",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon.And I verify that the store is schedule is from ten to eleven",
+  "historyId" : "273c12af237a6176ffefe36333d1a853",
+  "time" : {
+    "start" : 1639180616387,
+    "stop" : 1639180616427,
+    "duration" : 40
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: expect(received).toBe(expected) // Object.is equality",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"10:00 - 23:00\"\n                Received: \"segunda\"\n                    at C:\\repos\\vasco\\features\\pageValidations\\store.Validations.js:11:39\n                    at Array.forEach (<anonymous>)\n                    at StorePageValidation.validateSchedule (C:\\repos\\vasco\\features\\pageValidations\\store.Validations.js:9:30)\n                    at World.<anonymous> (C:\\repos\\vasco\\features\\step-definitions\\steps.js:104:23)\n                    at World.executeSync (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Error: expect(received).toBe(expected) // Object.is equality",
+    "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: \"10:00 - 23:00\"\n                Received: \"segunda\"\n                    at C:\\repos\\vasco\\features\\pageValidations\\store.Validations.js:11:39\n                    at Array.forEach (<anonymous>)\n                    at StorePageValidation.validateSchedule (C:\\repos\\vasco\\features\\pageValidations\\store.Validations.js:9:30)\n                    at World.<anonymous> (C:\\repos\\vasco\\features\\step-definitions\\steps.js:104:23)\n                    at World.executeSync (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1639180616387,
+        "stop" : 1639180616403,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b29226ae317cb51b",
+        "name" : "Request",
+        "source" : "b29226ae317cb51b.json",
+        "type" : "application/json",
+        "size" : 70
+      }, {
+        "uid" : "462c17b71afcdb8a",
+        "name" : "Response",
+        "source" : "462c17b71afcdb8a.json",
+        "type" : "application/json",
+        "size" : 1094
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/e4fc6b95-83df-42cc-98c8-122c059f1784/text",
+      "time" : {
+        "start" : 1639180616413,
+        "stop" : 1639180616423,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ef5e39d07e433898",
+        "name" : "Response",
+        "source" : "ef5e39d07e433898.json",
+        "type" : "application/json",
+        "size" : 9
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I verify that the store is schedule is from ten to eleven"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0380e517b2b6a3b.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

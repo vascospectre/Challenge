@@ -1,0 +1,237 @@
+{
+  "uid" : "a9ea455f5338af2f",
+  "name" : "And I check if the number of items are one",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price.And I check if the number of items are one",
+  "historyId" : "4b713ccdd8734c0a57ff965ed6b25e58",
+  "time" : {
+    "start" : 1639183363554,
+    "stop" : 1639183370737,
+    "duration" : 7183
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183368558,
+        "stop" : 1639183368570,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "961ec538b9c4263d",
+        "name" : "Request",
+        "source" : "961ec538b9c4263d.json",
+        "type" : "application/json",
+        "size" : 81
+      }, {
+        "uid" : "94b0ae68d73d4260",
+        "name" : "Response",
+        "source" : "94b0ae68d73d4260.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/bbea4420-ff51-48d2-ac1b-3826fbe4b23d/click",
+      "time" : {
+        "start" : 1639183368572,
+        "stop" : 1639183370160,
+        "duration" : 1588
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183370161,
+        "stop" : 1639183370194,
+        "duration" : 33
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "58f6b97587068e3c",
+        "name" : "Request",
+        "source" : "58f6b97587068e3c.json",
+        "type" : "application/json",
+        "size" : 103
+      }, {
+        "uid" : "7f4ff7fe6dd3c81b",
+        "name" : "Response",
+        "source" : "7f4ff7fe6dd3c81b.json",
+        "type" : "application/json",
+        "size" : 1077
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1639183370197,
+        "stop" : 1639183370215,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9445f606a0c88188",
+        "name" : "Request",
+        "source" : "9445f606a0c88188.json",
+        "type" : "application/json",
+        "size" : 103
+      }, {
+        "uid" : "699c540de9e27537",
+        "name" : "Response",
+        "source" : "699c540de9e27537.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1639183370707,
+        "stop" : 1639183370716,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "75e23cf4804fe995",
+        "name" : "Request",
+        "source" : "75e23cf4804fe995.json",
+        "type" : "application/json",
+        "size" : 103
+      }, {
+        "uid" : "b0338f2caec5ae10",
+        "name" : "Response",
+        "source" : "b0338f2caec5ae10.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183370718,
+        "stop" : 1639183370724,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "760d30f02f5fd2e7",
+        "name" : "Request",
+        "source" : "760d30f02f5fd2e7.json",
+        "type" : "application/json",
+        "size" : 103
+      }, {
+        "uid" : "fb80fe77845b6d0e",
+        "name" : "Response",
+        "source" : "fb80fe77845b6d0e.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/9c22d697-bfea-40e3-8ce6-308a64f17bce/text",
+      "time" : {
+        "start" : 1639183370727,
+        "stop" : 1639183370736,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ee53d6496fd2b2f3",
+        "name" : "Response",
+        "source" : "ee53d6496fd2b2f3.json",
+        "type" : "application/json",
+        "size" : 5
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 11
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I check if the number of items are one"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9ea455f5338af2f.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

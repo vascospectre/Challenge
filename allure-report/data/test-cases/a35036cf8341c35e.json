@@ -1,0 +1,158 @@
+{
+  "uid" : "a35036cf8341c35e",
+  "name" : "And I add the book to the shopping cart",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price.And I add the book to the shopping cart",
+  "historyId" : "9f0368749028d7f6929fef14b3b0cc7c",
+  "time" : {
+    "start" : 1639183504198,
+    "stop" : 1639183504497,
+    "duration" : 299
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183504198,
+        "stop" : 1639183504258,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "74b23e6f8937f918",
+        "name" : "Request",
+        "source" : "74b23e6f8937f918.json",
+        "type" : "application/json",
+        "size" : 74
+      }, {
+        "uid" : "98fcef514309f5d1",
+        "name" : "Response",
+        "source" : "98fcef514309f5d1.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/dbab1ba6-2f66-4d8f-9bc8-037d7b3670cd/click",
+      "time" : {
+        "start" : 1639183504259,
+        "stop" : 1639183504497,
+        "duration" : 238
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I add the book to the shopping cart"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e1e94f5009eb7a32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183363436,
+        "stop" : 1639183363554,
+        "duration" : 118
+      }
+    }, {
+      "uid" : "a0d8668acf7cc105",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183298052,
+        "stop" : 1639183298189,
+        "duration" : 137
+      }
+    }, {
+      "uid" : "d41969684a3be731",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183192514,
+        "stop" : 1639183192614,
+        "duration" : 100
+      }
+    }, {
+      "uid" : "ee6b07d9a1664e18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182875228,
+        "stop" : 1639182875323,
+        "duration" : 95
+      }
+    }, {
+      "uid" : "44b6dba1079d99d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182702885,
+        "stop" : 1639182702960,
+        "duration" : 75
+      }
+    }, {
+      "uid" : "aa64333ee17d942c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182503451,
+        "stop" : 1639182503771,
+        "duration" : 320
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a35036cf8341c35e.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

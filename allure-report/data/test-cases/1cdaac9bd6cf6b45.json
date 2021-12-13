@@ -1,0 +1,124 @@
+{
+  "uid" : "1cdaac9bd6cf6b45",
+  "name" : "And I validate that the number of pages are \"314\"",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify characteristics.And I validate that the number of pages are \"314\"",
+  "historyId" : "82dae238e519420327e64fb82481ec33",
+  "time" : {
+    "start" : 1639183478440,
+    "stop" : 1639183478497,
+    "duration" : 57
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183478440,
+        "stop" : 1639183478460,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5d513399b0dbae35",
+        "name" : "Request",
+        "source" : "5d513399b0dbae35.json",
+        "type" : "application/json",
+        "size" : 88
+      }, {
+        "uid" : "71680d26602aa8a2",
+        "name" : "Response",
+        "source" : "71680d26602aa8a2.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/7bb5ec14-81b1-4eb5-a1ba-2f33379913ff/text",
+      "time" : {
+        "start" : 1639183478461,
+        "stop" : 1639183478496,
+        "duration" : 35
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5f8f319ddacfacb1",
+        "name" : "Response",
+        "source" : "5f8f319ddacfacb1.json",
+        "type" : "application/json",
+        "size" : 5
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify characteristics"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify characteristics"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I validate that the number of pages are \"314\""
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify characteristics"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6468b0996f9df9c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478710,
+        "stop" : 1639182478744,
+        "duration" : 34
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cdaac9bd6cf6b45.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

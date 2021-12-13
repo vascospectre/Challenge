@@ -1,0 +1,70 @@
+{
+  "total" : 6,
+  "items" : [ {
+    "uid" : "292868b68151c7cebfbbaedee7b56e30",
+    "name" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "5cf4897be8eb95e55817953799a0ffca",
+    "name" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify characteristics",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    }
+  }, {
+    "uid" : "d57b1cafe63918845ac80083ff864ece",
+    "name" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "d6b32c2c6cce5607793d804eb088f27e",
+    "name" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "bdb79bcb0c820d8b34619283018f52cf",
+    "name" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "902d40afb1c7dba75a0cc9ae1104d949",
+    "name" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the author biography",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  } ]
+}

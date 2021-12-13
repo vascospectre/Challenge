@@ -1,0 +1,214 @@
+{
+  "uid" : "9087eba2c06ddee0",
+  "name" : "And I check if the value is the price of the book plus shipping",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price.And I check if the value is the price of the book plus shipping",
+  "historyId" : "cb5f72e193023d4088c1349b3e3e09d1",
+  "time" : {
+    "start" : 1639182525751,
+    "stop" : 1639182525811,
+    "duration" : 60
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: expect(received).toBe(expected) // Object.is equality",
+  "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false\n                    at ProductPageValidation.checkPrice (C:\\repos\\vasco\\features\\pageValidations\\product.Validations.js:39:23)\n                    at World.<anonymous> (C:\\repos\\vasco\\features\\step-definitions\\steps.js:85:25)\n                    at World.executeSync (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Error: expect(received).toBe(expected) // Object.is equality",
+    "statusTrace" : "Error: expect(received).toBe(expected) // Object.is equality\n                \n                Expected: true\n                Received: false\n                    at ProductPageValidation.checkPrice (C:\\repos\\vasco\\features\\pageValidations\\product.Validations.js:39:23)\n                    at World.<anonymous> (C:\\repos\\vasco\\features\\step-definitions\\steps.js:85:25)\n                    at World.executeSync (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639182525751,
+        "stop" : 1639182525759,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "82314a38edbace2c",
+        "name" : "Request",
+        "source" : "82314a38edbace2c.json",
+        "type" : "application/json",
+        "size" : 124
+      }, {
+        "uid" : "2f0967e81c6dbabf",
+        "name" : "Response",
+        "source" : "2f0967e81c6dbabf.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/9f706370-589c-41f9-80a7-7c54499d3091/text",
+      "time" : {
+        "start" : 1639182525761,
+        "stop" : 1639182525770,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "80bba24c8b908674",
+        "name" : "Response",
+        "source" : "80bba24c8b908674.json",
+        "type" : "application/json",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639182525770,
+        "stop" : 1639182525779,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eb20181404ec0c32",
+        "name" : "Request",
+        "source" : "eb20181404ec0c32.json",
+        "type" : "application/json",
+        "size" : 99
+      }, {
+        "uid" : "d790286fc00fa450",
+        "name" : "Response",
+        "source" : "d790286fc00fa450.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/5ef37e6d-f712-43b1-bfb5-a33669238acc/text",
+      "time" : {
+        "start" : 1639182525781,
+        "stop" : 1639182525790,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c937f0919905f0bb",
+        "name" : "Response",
+        "source" : "c937f0919905f0bb.json",
+        "type" : "application/json",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639182525790,
+        "stop" : 1639182525799,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "581037d33cd453a5",
+        "name" : "Request",
+        "source" : "581037d33cd453a5.json",
+        "type" : "application/json",
+        "size" : 97
+      }, {
+        "uid" : "3db5e75b8b9a71de",
+        "name" : "Response",
+        "source" : "3db5e75b8b9a71de.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/d24b6e2a-2005-48fa-8a12-e62bd0e712e1/text",
+      "time" : {
+        "start" : 1639182525800,
+        "stop" : 1639182525808,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "80dbaf77757a3a61",
+        "name" : "Response",
+        "source" : "80dbaf77757a3a61.json",
+        "type" : "application/json",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 9
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I check if the value is the price of the book plus shipping"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9087eba2c06ddee0.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

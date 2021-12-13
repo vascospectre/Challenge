@@ -1,0 +1,134 @@
+{
+  "uid" : "ac06f06d3ea6f403",
+  "name" : "Then I choose the Almada store",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon.Then I choose the Almada store",
+  "historyId" : "12306c25ba6c716e7346378125e1a2b",
+  "time" : {
+    "start" : 1639180707776,
+    "stop" : 1639180716949,
+    "duration" : 9173
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <a class=\"StoreFinder-shopLink\" href=\"https://www.fnac.pt/Fnac-.../Fnac-Almada/cl7/w-4\">Almada</a> is not clickable at point (80, 33). Other element would receive the click: <section class=\"kPopin\">...</section>",
+  "statusTrace" : "element click intercepted: Element <a class=\"StoreFinder-shopLink\" href=\"https://www.fnac.pt/Fnac-.../Fnac-Almada/cl7/w-4\">Almada</a> is not clickable at point (80, 33). Other element would receive the click: <section class=\"kPopin\">...</section>\n                  (Session info: chrome=96.0.4664.93)\n                    at Object.getErrorFromResponseBody (C:\\repos\\vasco\\node_modules\\webdriver\\build\\utils.js:94:12)\n                    at WebDriverRequest._request (C:\\repos\\vasco\\node_modules\\webdriver\\build\\request.js:134:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\repos\\vasco\\node_modules\\webdriverio\\build\\middlewares.js:17:32)\n                    at async Element.runCommandWithHooks (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:70:25)\n                    at Element.runCommandWithHooks (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.elementErrorHandlerCallback (C:\\repos\\vasco\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at StorePageActions.clickStoreBtn (C:\\repos\\vasco\\features\\pageActions\\store.Actions.js:5:23)\n                    at World.<anonymous> (C:\\repos\\vasco\\features\\step-definitions\\steps.js:96:19)\n                    at World.executeSync (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element click intercepted: Element <a class=\"StoreFinder-shopLink\" href=\"https://www.fnac.pt/Fnac-.../Fnac-Almada/cl7/w-4\">Almada</a> is not clickable at point (80, 33). Other element would receive the click: <section class=\"kPopin\">...</section>",
+    "statusTrace" : "element click intercepted: Element <a class=\"StoreFinder-shopLink\" href=\"https://www.fnac.pt/Fnac-.../Fnac-Almada/cl7/w-4\">Almada</a> is not clickable at point (80, 33). Other element would receive the click: <section class=\"kPopin\">...</section>\n                  (Session info: chrome=96.0.4664.93)\n                    at Object.getErrorFromResponseBody (C:\\repos\\vasco\\node_modules\\webdriver\\build\\utils.js:94:12)\n                    at WebDriverRequest._request (C:\\repos\\vasco\\node_modules\\webdriver\\build\\request.js:134:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\repos\\vasco\\node_modules\\webdriverio\\build\\middlewares.js:17:32)\n                    at async Element.runCommandWithHooks (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:70:25)\n                    at Element.runCommandWithHooks (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.elementErrorHandlerCallback (C:\\repos\\vasco\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at StorePageActions.clickStoreBtn (C:\\repos\\vasco\\features\\pageActions\\store.Actions.js:5:23)\n                    at World.<anonymous> (C:\\repos\\vasco\\features\\step-definitions\\steps.js:96:19)\n                    at World.executeSync (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639180712787,
+        "stop" : 1639180712800,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "16d590ff47d95976",
+        "name" : "Request",
+        "source" : "16d590ff47d95976.json",
+        "type" : "application/json",
+        "size" : 109
+      }, {
+        "uid" : "65b133d438720085",
+        "name" : "Response",
+        "source" : "65b133d438720085.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639180712802,
+        "stop" : 1639180712807,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "146b2621fd307405",
+        "name" : "Request",
+        "source" : "146b2621fd307405.json",
+        "type" : "application/json",
+        "size" : 302
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element/5f560ed6-0d89-4069-b337-f3918a8cdf12/click",
+      "time" : {
+        "start" : 1639180712807,
+        "stop" : 1639180716949,
+        "duration" : 4142
+      },
+      "status" : "broken",
+      "statusMessage" : "element click intercepted: Element <a class=\"StoreFinder-shopLink\" href=\"https://www.fnac.pt/Fnac-.../Fnac-Almada/cl7/w-4\">Almada</a> is not clickable at point (80, 33). Other element would receive the click: <section class=\"kPopin\">...</section>\n                  (Session info: chrome=96.0.4664.93)\n                    at Object.getErrorFromResponseBody (C:\\repos\\vasco\\node_modules\\webdriver\\build\\utils.js:94:12)\n                    at WebDriverRequest._request (C:\\repos\\vasco\\node_modules\\webdriver\\build\\request.js:134:31)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\repos\\vasco\\node_modules\\webdriverio\\build\\middlewares.js:17:32)\n                    at async Element.runCommandWithHooks (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:70:25)\n                    at Element.runCommandWithHooks (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:65:24)\n                    at Element.wrapCommandFn (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:44:44)\n                    at Element.elementErrorHandlerCallback (C:\\repos\\vasco\\node_modules\\webdriverio\\build\\middlewares.js:34:12)\n                    at StorePageActions.clickStoreBtn (C:\\repos\\vasco\\features\\pageActions\\store.Actions.js:5:23)\n                    at World.<anonymous> (C:\\repos\\vasco\\features\\step-definitions\\steps.js:96:19)\n                    at World.executeSync (C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\repos\\vasco\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I choose the Almada store"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac06f06d3ea6f403.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

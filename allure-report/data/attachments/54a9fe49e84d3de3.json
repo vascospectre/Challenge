@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//a[@href=\"https://www.fnac.pt/localize-loja-fnac/w-4\"]"
+}

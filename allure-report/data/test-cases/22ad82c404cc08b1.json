@@ -1,0 +1,210 @@
+{
+  "uid" : "22ad82c404cc08b1",
+  "name" : "And I check if the value is the price of the book plus shipping",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price.And I check if the value is the price of the book plus shipping",
+  "historyId" : "cb5f72e193023d4088c1349b3e3e09d1",
+  "time" : {
+    "start" : 1639183305034,
+    "stop" : 1639183305100,
+    "duration" : 66
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183305034,
+        "stop" : 1639183305043,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8fcd2e1675aa34c0",
+        "name" : "Request",
+        "source" : "8fcd2e1675aa34c0.json",
+        "type" : "application/json",
+        "size" : 124
+      }, {
+        "uid" : "3475361ad484543b",
+        "name" : "Response",
+        "source" : "3475361ad484543b.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/137cbd14-4789-43b2-834c-2114cba98594/text",
+      "time" : {
+        "start" : 1639183305045,
+        "stop" : 1639183305054,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a4be998f4e415dbf",
+        "name" : "Response",
+        "source" : "a4be998f4e415dbf.json",
+        "type" : "application/json",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183305055,
+        "stop" : 1639183305064,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1e2c87eaa1045fc9",
+        "name" : "Request",
+        "source" : "1e2c87eaa1045fc9.json",
+        "type" : "application/json",
+        "size" : 99
+      }, {
+        "uid" : "a1ff21da12526391",
+        "name" : "Response",
+        "source" : "a1ff21da12526391.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/0971d6e2-7e83-454a-899f-7a38a8a1badb/text",
+      "time" : {
+        "start" : 1639183305065,
+        "stop" : 1639183305077,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b4e522d45d963343",
+        "name" : "Response",
+        "source" : "b4e522d45d963343.json",
+        "type" : "application/json",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183305077,
+        "stop" : 1639183305085,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b6c1538110e8088c",
+        "name" : "Request",
+        "source" : "b6c1538110e8088c.json",
+        "type" : "application/json",
+        "size" : 97
+      }, {
+        "uid" : "7d1e2a0eee0a2cf5",
+        "name" : "Response",
+        "source" : "7d1e2a0eee0a2cf5.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/9b52cffb-8373-4419-aac1-c97d75c926bb/text",
+      "time" : {
+        "start" : 1639183305086,
+        "stop" : 1639183305099,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "db86b627b1721aa8",
+        "name" : "Response",
+        "source" : "db86b627b1721aa8.json",
+        "type" : "application/json",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 9
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I check if the value is the price of the book plus shipping"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22ad82c404cc08b1.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

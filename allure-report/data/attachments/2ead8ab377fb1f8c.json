@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//ul[@class=\"js-StoreFinder-closeStores opened\"]//a[text()=\"Almada\"]"
+}

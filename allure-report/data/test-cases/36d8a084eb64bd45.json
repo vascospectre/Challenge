@@ -1,0 +1,172 @@
+{
+  "uid" : "36d8a084eb64bd45",
+  "name" : "And I change the view",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page.And I change the view",
+  "historyId" : "9fc1cdd0fab6552ea4698327548ca4e2",
+  "time" : {
+    "start" : 1639183441318,
+    "stop" : 1639183461423,
+    "duration" : 20105
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183461334,
+        "stop" : 1639183461349,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8a87dca0cd937a09",
+        "name" : "Request",
+        "source" : "8a87dca0cd937a09.json",
+        "type" : "application/json",
+        "size" : 54
+      }, {
+        "uid" : "7cadc60a96de541c",
+        "name" : "Response",
+        "source" : "7cadc60a96de541c.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639183461351,
+        "stop" : 1639183461358,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c0936087e0a1bd47",
+        "name" : "Request",
+        "source" : "c0936087e0a1bd47.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "30206d556583a5ee",
+        "name" : "Response",
+        "source" : "30206d556583a5ee.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639183461358,
+        "stop" : 1639183461370,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d922bc8748db0dc",
+        "name" : "Request",
+        "source" : "d922bc8748db0dc.json",
+        "type" : "application/json",
+        "size" : 4285
+      }, {
+        "uid" : "ba7dc31181a09083",
+        "name" : "Response",
+        "source" : "ba7dc31181a09083.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/38f92e82-0e23-4123-aea0-2c3cb87b4c76/click",
+      "time" : {
+        "start" : 1639183461370,
+        "stop" : 1639183461422,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I change the view"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b45981612dca884f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182441696,
+        "stop" : 1639182461794,
+        "duration" : 20098
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36d8a084eb64bd45.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

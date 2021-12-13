@@ -1,0 +1,108 @@
+{
+  "uid" : "2b8b55b930ea3608",
+  "name" : "Then I choose the book \"1984\" in the results",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments.Then I choose the book \"1984\" in the results",
+  "historyId" : "c32670e564b2452151a1ea28e30407d2",
+  "time" : {
+    "start" : 1639182482710,
+    "stop" : 1639182484226,
+    "duration" : 1516
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639182482710,
+        "stop" : 1639182482724,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ca8d201aa2e4c406",
+        "name" : "Request",
+        "source" : "ca8d201aa2e4c406.json",
+        "type" : "application/json",
+        "size" : 55
+      }, {
+        "uid" : "98a6543fa90583f2",
+        "name" : "Response",
+        "source" : "98a6543fa90583f2.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/71c6f4b7-9389-4ed9-bc8a-6ec841066ec2/click",
+      "time" : {
+        "start" : 1639182482725,
+        "stop" : 1639182484226,
+        "duration" : 1501
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I choose the book \"1984\" in the results"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b8b55b930ea3608.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

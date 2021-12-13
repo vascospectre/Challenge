@@ -1,0 +1,274 @@
+{
+  "uid" : "c7203424280c6f4f",
+  "name" : "When I search by \"1984\"",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments.When I search by \"1984\"",
+  "historyId" : "87cf6c10d1b050df8ff0e5844a12cdb6",
+  "time" : {
+    "start" : 1639183479208,
+    "stop" : 1639183482218,
+    "duration" : 3010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183479208,
+        "stop" : 1639183479222,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "558f1082335db2c2",
+        "name" : "Request",
+        "source" : "558f1082335db2c2.json",
+        "type" : "application/json",
+        "size" : 65
+      }, {
+        "uid" : "9a9de5e9fedc123b",
+        "name" : "Response",
+        "source" : "9a9de5e9fedc123b.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639183479224,
+        "stop" : 1639183479265,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8d20460f01e2d1a4",
+        "name" : "Request",
+        "source" : "8d20460f01e2d1a4.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "a46dc55ebde34dbd",
+        "name" : "Response",
+        "source" : "a46dc55ebde34dbd.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639183479265,
+        "stop" : 1639183479293,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "43e767edb196c891",
+        "name" : "Request",
+        "source" : "43e767edb196c891.json",
+        "type" : "application/json",
+        "size" : 4285
+      }, {
+        "uid" : "fd84770c70816d7b",
+        "name" : "Response",
+        "source" : "fd84770c70816d7b.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/5fd73509-9a45-43d1-bdee-9683fb94533e/value",
+      "time" : {
+        "start" : 1639183479293,
+        "stop" : 1639183479409,
+        "duration" : 116
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ac58a0a3495b72bc",
+        "name" : "Request",
+        "source" : "ac58a0a3495b72bc.json",
+        "type" : "application/json",
+        "size" : 20
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183479409,
+        "stop" : 1639183479422,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d86bd06d0623ec69",
+        "name" : "Request",
+        "source" : "d86bd06d0623ec69.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "edb80b868455bd44",
+        "name" : "Response",
+        "source" : "edb80b868455bd44.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639183479423,
+        "stop" : 1639183479430,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7437482531992352",
+        "name" : "Request",
+        "source" : "7437482531992352.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "9a3e7c9cf419a7cc",
+        "name" : "Response",
+        "source" : "9a3e7c9cf419a7cc.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639183479430,
+        "stop" : 1639183479442,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "975e70556c94eac0",
+        "name" : "Request",
+        "source" : "975e70556c94eac0.json",
+        "type" : "application/json",
+        "size" : 4285
+      }, {
+        "uid" : "147eb141d8dd2d97",
+        "name" : "Response",
+        "source" : "147eb141d8dd2d97.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/46969f23-0a03-48e7-b6cb-2039a149ad9d/click",
+      "time" : {
+        "start" : 1639183479442,
+        "stop" : 1639183482218,
+        "duration" : 2776
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 13
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search by \"1984\""
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a56e5ce970225d5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182479332,
+        "stop" : 1639182482710,
+        "duration" : 3378
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7203424280c6f4f.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

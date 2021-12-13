@@ -1,0 +1,114 @@
+{
+  "uid" : "6ef68171ec11e058",
+  "name" : "And I validate that the book have \"world\" in description",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page.And I validate that the book have \"world\" in description",
+  "historyId" : "6fbfd6edac783c5e19144e8236bb3741",
+  "time" : {
+    "start" : 1639182471816,
+    "stop" : 1639182471839,
+    "duration" : 23
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639182471816,
+        "stop" : 1639182471826,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2beaf83233c9feb",
+        "name" : "Request",
+        "source" : "2beaf83233c9feb.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "cc4c54b9a42a0b88",
+        "name" : "Response",
+        "source" : "cc4c54b9a42a0b88.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/4b575bbe-effb-4d01-965f-eeab75aa3801/text",
+      "time" : {
+        "start" : 1639182471827,
+        "stop" : 1639182471837,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4f83285204854c63",
+        "name" : "Response",
+        "source" : "4f83285204854c63.json",
+        "type" : "application/json",
+        "size" : 257
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I validate that the book have \"world\" in description"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ef68171ec11e058.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

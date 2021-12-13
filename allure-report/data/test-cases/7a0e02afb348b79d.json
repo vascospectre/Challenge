@@ -1,0 +1,129 @@
+{
+  "uid" : "7a0e02afb348b79d",
+  "name" : "Then I choose the Almada store",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon.Then I choose the Almada store",
+  "historyId" : "12306c25ba6c716e7346378125e1a2b",
+  "time" : {
+    "start" : 1639181474927,
+    "stop" : 1639181481327,
+    "duration" : 6400
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639181479934,
+        "stop" : 1639181479948,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9bc25b12e467f43",
+        "name" : "Request",
+        "source" : "9bc25b12e467f43.json",
+        "type" : "application/json",
+        "size" : 109
+      }, {
+        "uid" : "b008a69ec962b809",
+        "name" : "Response",
+        "source" : "b008a69ec962b809.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639181479950,
+        "stop" : 1639181479954,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c98e8cc32057f0cf",
+        "name" : "Request",
+        "source" : "c98e8cc32057f0cf.json",
+        "type" : "application/json",
+        "size" : 357
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element/f5ce36ab-f799-49e0-8634-41cbd6f7cb65/click",
+      "time" : {
+        "start" : 1639181479954,
+        "stop" : 1639181481327,
+        "duration" : 1373
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I choose the Almada store"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a0e02afb348b79d.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

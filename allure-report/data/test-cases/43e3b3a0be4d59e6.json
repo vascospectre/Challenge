@@ -1,0 +1,124 @@
+{
+  "uid" : "43e3b3a0be4d59e6",
+  "name" : "And I validate that the book dimensions are \"13 x 21 cm\"",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify characteristics.And I validate that the book dimensions are \"13 x 21 cm\"",
+  "historyId" : "aa83aa979026eac62a2d3b2db0101158",
+  "time" : {
+    "start" : 1639183478497,
+    "stop" : 1639183478574,
+    "duration" : 77
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183478497,
+        "stop" : 1639183478546,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e620b1115d5d5573",
+        "name" : "Request",
+        "source" : "e620b1115d5d5573.json",
+        "type" : "application/json",
+        "size" : 86
+      }, {
+        "uid" : "b9a92a80f3b2595d",
+        "name" : "Response",
+        "source" : "b9a92a80f3b2595d.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/cf6fe5f1-100a-4780-a981-f0e91b123086/text",
+      "time" : {
+        "start" : 1639183478548,
+        "stop" : 1639183478573,
+        "duration" : 25
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b5d18d744f4633cd",
+        "name" : "Response",
+        "source" : "b5d18d744f4633cd.json",
+        "type" : "application/json",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify characteristics"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify characteristics"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I validate that the book dimensions are \"13 x 21 cm\""
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify characteristics"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7c677f881525242c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478744,
+        "stop" : 1639182478803,
+        "duration" : 59
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43e3b3a0be4d59e6.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

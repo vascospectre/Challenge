@@ -1,0 +1,264 @@
+{
+  "uid" : "f8053a6cf4704108",
+  "name" : "When I search by \"George\"",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page.When I search by \"George\"",
+  "historyId" : "8bf1e202815c7460d5e69a21438a4022",
+  "time" : {
+    "start" : 1639182438634,
+    "stop" : 1639182441695,
+    "duration" : 3061
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639182438635,
+        "stop" : 1639182438663,
+        "duration" : 28
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "16c84296f92bf537",
+        "name" : "Request",
+        "source" : "16c84296f92bf537.json",
+        "type" : "application/json",
+        "size" : 65
+      }, {
+        "uid" : "71b8bdc6fde665d8",
+        "name" : "Response",
+        "source" : "71b8bdc6fde665d8.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639182438669,
+        "stop" : 1639182438721,
+        "duration" : 52
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fab703a078f1f510",
+        "name" : "Request",
+        "source" : "fab703a078f1f510.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "141dece70573deca",
+        "name" : "Response",
+        "source" : "141dece70573deca.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639182438721,
+        "stop" : 1639182438737,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d010a5d68912efe",
+        "name" : "Request",
+        "source" : "d010a5d68912efe.json",
+        "type" : "application/json",
+        "size" : 4285
+      }, {
+        "uid" : "4bf1c4cc4475439",
+        "name" : "Response",
+        "source" : "4bf1c4cc4475439.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/493f50ef-66f4-4d0e-bfd7-b5b32c5f5426/value",
+      "time" : {
+        "start" : 1639182438740,
+        "stop" : 1639182438787,
+        "duration" : 47
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e4d62437d35262f2",
+        "name" : "Request",
+        "source" : "e4d62437d35262f2.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639182438787,
+        "stop" : 1639182438802,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f85c5e951ae68e3b",
+        "name" : "Request",
+        "source" : "f85c5e951ae68e3b.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "681deda1bf7fc6f",
+        "name" : "Response",
+        "source" : "681deda1bf7fc6f.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639182438805,
+        "stop" : 1639182438821,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c352e624fb4ff2a6",
+        "name" : "Request",
+        "source" : "c352e624fb4ff2a6.json",
+        "type" : "application/json",
+        "size" : 5893
+      }, {
+        "uid" : "8662f770be03fa89",
+        "name" : "Response",
+        "source" : "8662f770be03fa89.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1639182438821,
+        "stop" : 1639182438840,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a01dd16f5cbbbabd",
+        "name" : "Request",
+        "source" : "a01dd16f5cbbbabd.json",
+        "type" : "application/json",
+        "size" : 4285
+      }, {
+        "uid" : "fc7984be44342ea0",
+        "name" : "Response",
+        "source" : "fc7984be44342ea0.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/249209ce-5fe9-45e3-88ca-daa78eca8a24/click",
+      "time" : {
+        "start" : 1639182438840,
+        "stop" : 1639182441695,
+        "duration" : 2855
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 13
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search by \"George\""
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8053a6cf4704108.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

@@ -1,0 +1,234 @@
+{
+  "uid" : "caac6b86541e729",
+  "name" : "",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments.",
+  "historyId" : "ab07084713612088b361385ad0724230",
+  "time" : {
+    "start" : 1639183491775,
+    "stop" : 1639183491775,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "97572535eb182e43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183478583,
+        "stop" : 1639183478583,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "798b6b33c807249f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182492377,
+        "stop" : 1639182492377,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "937d2a3ec1c923ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478812,
+        "stop" : 1639182478812,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "269da7a13188c7ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182210974,
+        "stop" : 1639182210974,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8ff22cd47e268120",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182084364,
+        "stop" : 1639182084364,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "695a3c034af88748",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181948503,
+        "stop" : 1639181948504,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4a08193a3ad53fa7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181806387,
+        "stop" : 1639181806387,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "88f94b44514a5ddd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181759745,
+        "stop" : 1639181759746,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "826b3e877fe2c159",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181471037,
+        "stop" : 1639181471038,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f3d19bdd4d23c9f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181272600,
+        "stop" : 1639181272600,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bbd444a8efb11a13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181051323,
+        "stop" : 1639181051323,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3b907e68d63ce25d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180769416,
+        "stop" : 1639180769416,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e69e74879be1c1a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180703957,
+        "stop" : 1639180703958,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b3a3c3b29996ebac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180605140,
+        "stop" : 1639180605140,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b8059d6a3020589b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180580008,
+        "stop" : 1639180580008,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2dc440e29ff3a1b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180502894,
+        "stop" : 1639180502894,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3d9811e5462fd674",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179829334,
+        "stop" : 1639179829335,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7301092c336c9bb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179651194,
+        "stop" : 1639179651194,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3cc8c156fc5b017f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179484569,
+        "stop" : 1639179484570,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2bbebc6227fb7b52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177851776,
+        "stop" : 1639177851777,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9ba0290fbfa8795d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177622168,
+        "stop" : 1639177622169,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2c2839b920f8f631",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177562831,
+        "stop" : 1639177562832,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "caac6b86541e729.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

@@ -1,0 +1,124 @@
+{
+  "uid" : "20da8ae5a1b93ecb",
+  "name" : "And I validate that theres no classifications with one star",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments.And I validate that theres no classifications with one star",
+  "historyId" : "ae041b9def8844b7bf24a944bd031f2c",
+  "time" : {
+    "start" : 1639183483554,
+    "stop" : 1639183483653,
+    "duration" : 99
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183483554,
+        "stop" : 1639183483581,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "78f0d62d7089c598",
+        "name" : "Request",
+        "source" : "78f0d62d7089c598.json",
+        "type" : "application/json",
+        "size" : 153
+      }, {
+        "uid" : "b9f78f4c50d4f061",
+        "name" : "Response",
+        "source" : "b9f78f4c50d4f061.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/2cc043cb-46c6-4c26-a763-cea4c101fe55/text",
+      "time" : {
+        "start" : 1639183483582,
+        "stop" : 1639183483653,
+        "duration" : 71
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2f6c7db819dd4eee",
+        "name" : "Response",
+        "source" : "2f6c7db819dd4eee.json",
+        "type" : "application/json",
+        "size" : 3
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I validate that theres no classifications with one star"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the comments"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ae8fc7cfdf7121ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182484227,
+        "stop" : 1639182484383,
+        "duration" : 156
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20da8ae5a1b93ecb.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

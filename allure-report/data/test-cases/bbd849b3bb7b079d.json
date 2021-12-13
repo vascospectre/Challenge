@@ -1,0 +1,158 @@
+{
+  "uid" : "bbd849b3bb7b079d",
+  "name" : "Given I am on the homepage",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price.Given I am on the homepage",
+  "historyId" : "a184d1af59b04c84ad57a1b906807e79",
+  "time" : {
+    "start" : 1639183500674,
+    "stop" : 1639183501499,
+    "duration" : 825
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1639183500675,
+        "stop" : 1639183500692,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9a8bb5a88de138d0",
+        "name" : "Response",
+        "source" : "9a8bb5a88de138d0.json",
+        "type" : "application/json",
+        "size" : 59
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1639183500692,
+        "stop" : 1639183501499,
+        "duration" : 807
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9a930d6963e7841a",
+        "name" : "Request",
+        "source" : "9a930d6963e7841a.json",
+        "type" : "application/json",
+        "size" : 35
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for Fascism and Democracy book and check the price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f8b4366c7a4f9418",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183359418,
+        "stop" : 1639183360759,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "a511c5689aec11ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183294377,
+        "stop" : 1639183295515,
+        "duration" : 1138
+      }
+    }, {
+      "uid" : "9d5e2f239e4e976e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183187655,
+        "stop" : 1639183189581,
+        "duration" : 1926
+      }
+    }, {
+      "uid" : "e59f745583f4a8b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182871143,
+        "stop" : 1639182872279,
+        "duration" : 1136
+      }
+    }, {
+      "uid" : "91428d4514d359fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182698070,
+        "stop" : 1639182699622,
+        "duration" : 1552
+      }
+    }, {
+      "uid" : "c9a28ac9d2f3f54f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182500327,
+        "stop" : 1639182501084,
+        "duration" : 757
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bbd849b3bb7b079d.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

@@ -1,0 +1,4689 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "a0380e517b2b6a3b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639180616387,
+        "stop" : 1639180616427,
+        "duration" : 40
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "e69cee6b4502f608",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180703962,
+        "stop" : 1639180705434,
+        "duration" : 1472
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "11ae024c963d248b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639179499604,
+        "stop" : 1639179509642,
+        "duration" : 10038
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "61de2c5d67939e35",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181816027,
+        "stop" : 1639181821155,
+        "duration" : 5128
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "96c37d4e6ea36a94",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180607127,
+        "stop" : 1639180609232,
+        "duration" : 2105
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "fdec6a82d9a7ca7d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180703959,
+        "stop" : 1639180703959,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I add the book to the shopping cart",
+      "uid" : "ee6b07d9a1664e18",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182875228,
+        "stop" : 1639182875323,
+        "duration" : 95
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "4fff45d1e112f361",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183435669,
+        "stop" : 1639183436906,
+        "duration" : 1237
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "ed845c7e26578d6c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180605138,
+        "stop" : 1639180605139,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "ec8d808d81efccae",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180769420,
+        "stop" : 1639180771229,
+        "duration" : 1809
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "966653c1420886ee",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182728255,
+        "stop" : 1639182734313,
+        "duration" : 6058
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "1c4b9078cf622e66",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182086647,
+        "stop" : 1639182089255,
+        "duration" : 2608
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "f93bb6897c27c4a2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639180593104,
+        "stop" : 1639180593104,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7e82fd8f42386a98",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181948496,
+        "stop" : 1639181948497,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "6a88152f0912f4a2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180769417,
+        "stop" : 1639180769417,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "b8059d6a3020589b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180580008,
+        "stop" : 1639180580008,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3b260e2bfe88e617",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183370796,
+        "stop" : 1639183370797,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "dd18fe1396fc4c4f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181061212,
+        "stop" : 1639181061269,
+        "duration" : 57
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "9b2dd66843bc6f0c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183305100,
+        "stop" : 1639183305100,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4190a3b8f8b29b92",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181759748,
+        "stop" : 1639181759748,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "cf2bf06c70b64fdd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182871142,
+        "stop" : 1639182871143,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "fd3e17bcdfef7ec0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177586986,
+        "stop" : 1639177586986,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "e59f745583f4a8b4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182871143,
+        "stop" : 1639182872279,
+        "duration" : 1136
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "37d8b0e045686bea",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180580012,
+        "stop" : 1639180581201,
+        "duration" : 1189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "337f2c9e27b15970",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177622172,
+        "stop" : 1639177622172,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "e21d0f6d8f52c1b5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181759750,
+        "stop" : 1639181761006,
+        "duration" : 1256
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "56a03fdc065a73c0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181272598,
+        "stop" : 1639181272598,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "5d190cfbd49c1e81",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179484572,
+        "stop" : 1639179484572,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"Fascism and Democracy\" in the results",
+      "uid" : "a5560abebb7db5b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183296926,
+        "stop" : 1639183298052,
+        "duration" : 1126
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "781b9d9a69076951",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183471476,
+        "stop" : 1639183471476,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "cc143a0b5eb36c94",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180605144,
+        "stop" : 1639180607127,
+        "duration" : 1983
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "dc8fb99a136872aa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181055100,
+        "stop" : 1639181061212,
+        "duration" : 6112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "6c20d5f0823147c7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182215207,
+        "stop" : 1639182221558,
+        "duration" : 6351
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "62fcbbcd8b6c01dc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639177855616,
+        "stop" : 1639177865665,
+        "duration" : 10049
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "33551322f122fb95",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639181481382,
+        "stop" : 1639181486421,
+        "duration" : 5039
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"1984\" in the results",
+      "uid" : "bc8e5664bbf42fc4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183482218,
+        "stop" : 1639183483554,
+        "duration" : 1336
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "b87338c136577180",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177851769,
+        "stop" : 1639177851770,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "695a3c034af88748",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181948503,
+        "stop" : 1639181948504,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "8b8f51a17d9c38a9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181769323,
+        "stop" : 1639181769381,
+        "duration" : 58
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "8e76f7064a32a592",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179484574,
+        "stop" : 1639179486004,
+        "duration" : 1430
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "88f5ac8b5535329b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181272601,
+        "stop" : 1639181272601,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "16f54fb4fd6e682",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183500674,
+        "stop" : 1639183500674,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "cc99df9a0816d4c6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179484562,
+        "stop" : 1639179484563,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the number of items are one",
+      "uid" : "bc680bac3eed0583",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182875323,
+        "stop" : 1639182897453,
+        "duration" : 22130
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "747339fee031b45b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181763238,
+        "stop" : 1639181769323,
+        "duration" : 6085
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "2dc440e29ff3a1b4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180502894,
+        "stop" : 1639180502894,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "2e1b250282e89b10",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180580012,
+        "stop" : 1639180580012,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "b94801bd32c5e71b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177635816,
+        "stop" : 1639177635816,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "c9969a32a1816e6d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182221558,
+        "stop" : 1639182221610,
+        "duration" : 52
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "9fd5f9a9c1c592a6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639177625769,
+        "stop" : 1639177635816,
+        "duration" : 10047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7831150231d2298b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180502898,
+        "stop" : 1639180502898,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "7a0e02afb348b79d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181474927,
+        "stop" : 1639181481327,
+        "duration" : 6400
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "28b0b17899e8c17c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180609232,
+        "stop" : 1639180616331,
+        "duration" : 7099
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "7203a8bfab330ea1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177851781,
+        "stop" : 1639177853008,
+        "duration" : 1227
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "425056595d573668",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181471041,
+        "stop" : 1639181471041,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "739651e8af6ff9e1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639177635816,
+        "stop" : 1639177635816,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "5729b3c1070f673d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639180515445,
+        "stop" : 1639180515445,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "21b245be6b54527c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182084366,
+        "stop" : 1639182084366,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "21b8e4b40087692f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179829339,
+        "stop" : 1639179830706,
+        "duration" : 1367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "2f121cdae880406b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179488419,
+        "stop" : 1639179499604,
+        "duration" : 11185
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the number of pages are \"314\"",
+      "uid" : "1cdaac9bd6cf6b45",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183478440,
+        "stop" : 1639183478497,
+        "duration" : 57
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the number of items are one",
+      "uid" : "ba6ee83177ea0065",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183192614,
+        "stop" : 1639183199698,
+        "duration" : 7084
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "aec8f516017194d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183511553,
+        "stop" : 1639183511553,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "9f5b32df812f27c4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182221610,
+        "stop" : 1639182226738,
+        "duration" : 5128
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the number of items are one",
+      "uid" : "89fa883109fa755f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182503771,
+        "stop" : 1639182525751,
+        "duration" : 21980
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "dbe1f150024af440",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181051327,
+        "stop" : 1639181052694,
+        "duration" : 1367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "94295f829e1e1ded",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181481327,
+        "stop" : 1639181481382,
+        "duration" : 55
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7b4916390630cc24",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177562833,
+        "stop" : 1639177562833,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4d29225c685ecd4e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177622161,
+        "stop" : 1639177622163,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "bf4ad7fb2cf34e84",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639181958450,
+        "stop" : 1639181963596,
+        "duration" : 5146
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "cd2e752af9ad61d7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177562830,
+        "stop" : 1639177562830,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "f2dfb3ad94a384f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183514789,
+        "stop" : 1639183520861,
+        "duration" : 6072
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"1984\" in the results",
+      "uid" : "2b8b55b930ea3608",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182482710,
+        "stop" : 1639182484226,
+        "duration" : 1516
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "539616f5ba2eb7ca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181806386,
+        "stop" : 1639181806386,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "29e47bbef875f764",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180502895,
+        "stop" : 1639180502896,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "90eab08cc21dde0f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183491783,
+        "stop" : 1639183492524,
+        "duration" : 741
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7301092c336c9bb2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179651194,
+        "stop" : 1639179651194,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e9412902618c2c04",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181759747,
+        "stop" : 1639181759747,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "9d7c8e537bf3f7c5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179829336,
+        "stop" : 1639179829336,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e5960f317bfef509",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181759750,
+        "stop" : 1639181759750,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "8c36131b6cbfb6be",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182492385,
+        "stop" : 1639182492385,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"Fascism and Democracy\" in the results",
+      "uid" : "f4aa74354d47a851",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182873919,
+        "stop" : 1639182875228,
+        "duration" : 1309
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3d9811e5462fd674",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179829334,
+        "stop" : 1639179829335,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3407d5f173e57d70",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181948502,
+        "stop" : 1639181948502,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "76dce46f179b6f54",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182084368,
+        "stop" : 1639182084368,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3994c8837506181a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181806380,
+        "stop" : 1639181806381,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "e089bca5ba47ecea",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181806391,
+        "stop" : 1639181807816,
+        "duration" : 1425
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3cc8c156fc5b017f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179484569,
+        "stop" : 1639179484570,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "ec862b10c1d97e61",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181051325,
+        "stop" : 1639181051325,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "dc8c2987ea99d365",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180705434,
+        "stop" : 1639180707776,
+        "duration" : 2342
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "e51fecb48bc85854",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182437468,
+        "stop" : 1639182438634,
+        "duration" : 1166
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the number of items are one",
+      "uid" : "a9ea455f5338af2f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183363554,
+        "stop" : 1639183370737,
+        "duration" : 7183
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "93cceb7ed8649931",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182471849,
+        "stop" : 1639182473066,
+        "duration" : 1217
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "24bf460a3b04c03b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180502897,
+        "stop" : 1639180502897,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "d33a2843c37f2559",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179651198,
+        "stop" : 1639179652579,
+        "duration" : 1381
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"Fascism and Democracy\"",
+      "uid" : "63feace16762e6d7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182872279,
+        "stop" : 1639182873919,
+        "duration" : 1640
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"Fascism and Democracy\" in the results",
+      "uid" : "2efdb4f7528a10c2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183362156,
+        "stop" : 1639183363436,
+        "duration" : 1280
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "384506acea2ebc99",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181948507,
+        "stop" : 1639181948507,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e51d79bcf9ee2035",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180769414,
+        "stop" : 1639180769415,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "51ec2d157d420517",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179651187,
+        "stop" : 1639179651188,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "68b07e896700c577",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181287529,
+        "stop" : 1639181287529,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "1802e3c83e2c693a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182210975,
+        "stop" : 1639182210975,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3b907e68d63ce25d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180769416,
+        "stop" : 1639180769416,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the ISBN \"9789726081890\"",
+      "uid" : "5101307d181dd4fd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478657,
+        "stop" : 1639182478710,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that \"Fascism and Democracy\" appear in the results",
+      "uid" : "29f7b3559d5eaeb2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183461423,
+        "stop" : 1639183471442,
+        "duration" : 10019
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "88f94b44514a5ddd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181759745,
+        "stop" : 1639181759746,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I add the book to the shopping cart",
+      "uid" : "a35036cf8341c35e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183504198,
+        "stop" : 1639183504497,
+        "duration" : 299
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "402de913c08f36ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180580000,
+        "stop" : 1639180580002,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "630aeea35f947c4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180773507,
+        "stop" : 1639180781553,
+        "duration" : 8046
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"Fascism and Democracy\" in the results",
+      "uid" : "97b1d59b1c4b645",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183502980,
+        "stop" : 1639183504198,
+        "duration" : 1218
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "cd3ac2ea0e35409f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639180593104,
+        "stop" : 1639180593104,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "fd4cc283b3acc733",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183294376,
+        "stop" : 1639183294377,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"Fascism and Democracy\"",
+      "uid" : "7c8d32fc6330343b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183501499,
+        "stop" : 1639183502980,
+        "duration" : 1481
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "1bcb933491cafd44",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177851780,
+        "stop" : 1639177851780,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3018374c251f5a15",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181486421,
+        "stop" : 1639181486421,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that theres no classifications with one star",
+      "uid" : "ae8fc7cfdf7121ae",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182484227,
+        "stop" : 1639182484383,
+        "duration" : 156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "f8d0c9d0e77053ad",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179839375,
+        "stop" : 1639179839375,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "d7e5e9099d7835da",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183359417,
+        "stop" : 1639183359418,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "937d2a3ec1c923ca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478812,
+        "stop" : 1639182478812,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the book dimensions are \"13 x 21 cm\"",
+      "uid" : "7c677f881525242c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478744,
+        "stop" : 1639182478803,
+        "duration" : 59
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7a106fd3a05ee1d2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182725117,
+        "stop" : 1639182725117,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "d3b09748a306dc49",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180502898,
+        "stop" : 1639180504062,
+        "duration" : 1164
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "d8e57d8322f56a33",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179484568,
+        "stop" : 1639179484568,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7d2003788682832b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182210972,
+        "stop" : 1639182210972,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "853a5118c10c7afa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180605133,
+        "stop" : 1639180605134,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4d0ddbbed58957d1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183491783,
+        "stop" : 1639183491783,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "21506755f3fa41b3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180703961,
+        "stop" : 1639180703962,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "f859e6abfbfe649e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639182095339,
+        "stop" : 1639182100472,
+        "duration" : 5133
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "2389f7acbb5c680b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180703950,
+        "stop" : 1639180703951,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "fb8ee612db4e7693",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181759744,
+        "stop" : 1639181759744,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e89505890f6cf370",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179651195,
+        "stop" : 1639179651196,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "d576d961b9c25d57",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180786641,
+        "stop" : 1639180786641,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"Fascism and Democracy\"",
+      "uid" : "23a934b4d37c6ec1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183295515,
+        "stop" : 1639183296926,
+        "duration" : 1411
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "7c4e3c00586a124d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639182734364,
+        "stop" : 1639182739498,
+        "duration" : 5134
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "16742f8ef7e6faf0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180580010,
+        "stop" : 1639180580010,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "85c467404508310f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639180716949,
+        "stop" : 1639180716949,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "819535f829389694",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181774416,
+        "stop" : 1639181774416,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "bbd444a8efb11a13",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181051323,
+        "stop" : 1639181051323,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "90987594ead0ec9e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181958399,
+        "stop" : 1639181958450,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "a55ea3afaa786605",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639177586985,
+        "stop" : 1639177586986,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "69d5400efb641628",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179829327,
+        "stop" : 1639179829328,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "dd62e23e45dcffc5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183435668,
+        "stop" : 1639183435669,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "dc424a1d6fedde42",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181807816,
+        "stop" : 1639181809894,
+        "duration" : 2078
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "e4f3631de982958c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183512214,
+        "stop" : 1639183514789,
+        "duration" : 2575
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "6664a80bb130ccff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183520861,
+        "stop" : 1639183520911,
+        "duration" : 50
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3fdbcba6ef714fe",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182525811,
+        "stop" : 1639182525812,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if \"Animal farm\" is from the author",
+      "uid" : "8b7073faefdb1f7f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182500294,
+        "stop" : 1639182500317,
+        "duration" : 23
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the value is the price of the book plus shipping",
+      "uid" : "89affb709729fda0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183511489,
+        "stop" : 1639183511553,
+        "duration" : 64
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "804e865024660dd1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180581201,
+        "stop" : 1639180583928,
+        "duration" : 2727
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Almada\"",
+      "uid" : "ffaad8073fc9bf4f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179652579,
+        "stop" : 1639179655155,
+        "duration" : 2576
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "ede70002f7447678",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182210978,
+        "stop" : 1639182212857,
+        "duration" : 1879
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "d652b8518e407187",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639179839326,
+        "stop" : 1639179839375,
+        "duration" : 49
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "bb12fb0e1bd5da88",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181759738,
+        "stop" : 1639181759739,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "718a2df6f6ae88a8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177851775,
+        "stop" : 1639177851775,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7b1e7d8a64f1f84b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181948505,
+        "stop" : 1639181948505,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "743228f68b2e28c0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639180583928,
+        "stop" : 1639180593104,
+        "duration" : 9176
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if \"Animal farm\" is from the author",
+      "uid" : "52ec8558b2c29402",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183500567,
+        "stop" : 1639183500666,
+        "duration" : 99
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "1893745c83ab8ba3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180616427,
+        "stop" : 1639180616428,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"Fascism and Democracy\"",
+      "uid" : "fdfa4c38bf861156",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182699622,
+        "stop" : 1639182701531,
+        "duration" : 1909
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7f60d27bc4365c56",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183471465,
+        "stop" : 1639183471466,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "f516a3608df074a9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182500317,
+        "stop" : 1639182500317,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "269da7a13188c7ba",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182210974,
+        "stop" : 1639182210974,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the author is \"George Orwell\"",
+      "uid" : "4b641670f02819f8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478491,
+        "stop" : 1639182478657,
+        "duration" : 166
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that \"Fascism and Democracy\" appear in the results",
+      "uid" : "2ff822c18481935a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182461794,
+        "stop" : 1639182471816,
+        "duration" : 10022
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "951d9fa22a0b167e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177562834,
+        "stop" : 1639177562834,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the book have \"world\" in description",
+      "uid" : "4b839df4357852b9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183471443,
+        "stop" : 1639183471465,
+        "duration" : 22
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "d299463575aa1ee1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478812,
+        "stop" : 1639182479332,
+        "duration" : 520
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "c9a28ac9d2f3f54f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182500327,
+        "stop" : 1639182501084,
+        "duration" : 757
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I add the book to the shopping cart",
+      "uid" : "e1e94f5009eb7a32",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183363436,
+        "stop" : 1639183363554,
+        "duration" : 118
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I choose the author biography",
+      "uid" : "96a7f1080cfd60b8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183496900,
+        "stop" : 1639183500567,
+        "duration" : 3667
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7b3e98f22fbd133b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179651193,
+        "stop" : 1639179651193,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"1984\" in the results",
+      "uid" : "1a821900a82196f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183475691,
+        "stop" : 1639183478328,
+        "duration" : 2637
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "2092d77d6a09770",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181809894,
+        "stop" : 1639181815973,
+        "duration" : 6079
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "d67836668e16d0f5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180515445,
+        "stop" : 1639180515446,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "788d9f604e8ea569",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180781553,
+        "stop" : 1639180781606,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "ac06f06d3ea6f403",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639180707776,
+        "stop" : 1639180716949,
+        "duration" : 9173
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "bbd849b3bb7b079d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183500674,
+        "stop" : 1639183501499,
+        "duration" : 825
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the book dimensions are \"13 x 21 cm\"",
+      "uid" : "43e3b3a0be4d59e6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183478497,
+        "stop" : 1639183478574,
+        "duration" : 77
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I add the book to the shopping cart",
+      "uid" : "d41969684a3be731",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183192514,
+        "stop" : 1639183192614,
+        "duration" : 100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "b793f871e1a5f177",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179484571,
+        "stop" : 1639179484571,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "b3a3c3b29996ebac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180605140,
+        "stop" : 1639180605140,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "6d3a08dab1d786dd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182084356,
+        "stop" : 1639182084358,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "f6fbfe3c33c60809",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179839279,
+        "stop" : 1639179839326,
+        "duration" : 47
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the book have \"world\" in description",
+      "uid" : "6ef68171ec11e058",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182471816,
+        "stop" : 1639182471839,
+        "duration" : 23
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "8558ba3d3f0ae1dd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639181769381,
+        "stop" : 1639181774416,
+        "duration" : 5035
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"1984\"",
+      "uid" : "c44602f97484a3c9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183472356,
+        "stop" : 1639183475691,
+        "duration" : 3335
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "4f81133899164f6b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639180506277,
+        "stop" : 1639180515445,
+        "duration" : 9168
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "80ce74e5f2af8182",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180769409,
+        "stop" : 1639180769410,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "889fae3473ad57c5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179655155,
+        "stop" : 1639179661247,
+        "duration" : 6092
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "a4e6c29e8baf7074",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179829333,
+        "stop" : 1639179829333,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7152c1b7ebd803af",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182226738,
+        "stop" : 1639182226739,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "c158b23c2c817f9f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183478583,
+        "stop" : 1639183479208,
+        "duration" : 625
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "5116850c7b22a5f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180703956,
+        "stop" : 1639180703956,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "cf67f22afd131e8d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182525821,
+        "stop" : 1639182526435,
+        "duration" : 614
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "ab372cbaa5c34fbb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182471849,
+        "stop" : 1639182471849,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "f3d19bdd4d23c9f2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181272600,
+        "stop" : 1639181272600,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "f7ae79cdef60a7d5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182500327,
+        "stop" : 1639182500327,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "af8f1c03347d4d2c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182100473,
+        "stop" : 1639182100473,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the number of pages are \"314\"",
+      "uid" : "6468b0996f9df9c2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478710,
+        "stop" : 1639182478744,
+        "duration" : 34
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Almada\"",
+      "uid" : "ebf39c62eb5b4f8f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177563992,
+        "stop" : 1639177586927,
+        "duration" : 22935
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "6bedde1c01c37b1b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180605142,
+        "stop" : 1639180605143,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that theres no classifications with one star",
+      "uid" : "20da8ae5a1b93ecb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183483554,
+        "stop" : 1639183483653,
+        "duration" : 99
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "70540e554c98e94c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182725130,
+        "stop" : 1639182725130,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "a042130f28e3efeb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180771230,
+        "stop" : 1639180773506,
+        "duration" : 2276
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "b88c01fc9bc975d2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181273965,
+        "stop" : 1639181276393,
+        "duration" : 2428
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "988e9e0bde6358c6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182734313,
+        "stop" : 1639182734364,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Almada\"",
+      "uid" : "cd47d74b9d64ac65",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177623645,
+        "stop" : 1639177625769,
+        "duration" : 2124
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4852fc1cb57f4b21",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180580009,
+        "stop" : 1639180580009,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7a06a523cf12757f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177622170,
+        "stop" : 1639177622170,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "514b375979ab5fa2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181051324,
+        "stop" : 1639181051324,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I change the view",
+      "uid" : "b45981612dca884f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182441696,
+        "stop" : 1639182461794,
+        "duration" : 20098
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "121704c95e537c0b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182095287,
+        "stop" : 1639182095339,
+        "duration" : 52
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "ee7d32a7f3975d8d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181052694,
+        "stop" : 1639181055100,
+        "duration" : 2406
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "918feadd4c3820e2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182212857,
+        "stop" : 1639182215207,
+        "duration" : 2350
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"1984\"",
+      "uid" : "f9fa7400795491dc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183492524,
+        "stop" : 1639183495810,
+        "duration" : 3286
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the first comment is from \"22 Ago 2018\"",
+      "uid" : "ff1a1a95f5f00e41",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182484383,
+        "stop" : 1639182492377,
+        "duration" : 7994
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "d84213094cd2a3c0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639183520911,
+        "stop" : 1639183526049,
+        "duration" : 5138
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the number of items are one",
+      "uid" : "7370ff5406cf937",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182702960,
+        "stop" : 1639182725048,
+        "duration" : 22088
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "826b3e877fe2c159",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181471037,
+        "stop" : 1639181471038,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "bdcb602e6a35b4a5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181815974,
+        "stop" : 1639181816027,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4262c35436df9223",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180502893,
+        "stop" : 1639180502893,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "6ef1c64c5bbcce71",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180769418,
+        "stop" : 1639180769419,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I choose the author biography",
+      "uid" : "e1158a0534918b5b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182496597,
+        "stop" : 1639182500294,
+        "duration" : 3697
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "d34a20493be40d84",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639180781606,
+        "stop" : 1639180786641,
+        "duration" : 5035
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"1984\" in the results",
+      "uid" : "3d056384869f495b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183495810,
+        "stop" : 1639183496900,
+        "duration" : 1090
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "a90aa12ecc78d0de",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182897515,
+        "stop" : 1639182897515,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "91e20b773c32a9f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180580006,
+        "stop" : 1639180580006,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "91428d4514d359fd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182698070,
+        "stop" : 1639182699622,
+        "duration" : 1552
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "d5843510ab616e21",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639177865665,
+        "stop" : 1639177865665,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "f70adf824b8f88b9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182084368,
+        "stop" : 1639182086646,
+        "duration" : 2278
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "6260ce5857e57ea6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182437467,
+        "stop" : 1639182437468,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"Fascism and Democracy\" in the results",
+      "uid" : "4a143875e83ac2a1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182701531,
+        "stop" : 1639182702885,
+        "duration" : 1354
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "5ad0945f5574945",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181272592,
+        "stop" : 1639181272593,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"1984\" in the results",
+      "uid" : "a875cb378faa6b5c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182495375,
+        "stop" : 1639182496596,
+        "duration" : 1221
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "415f053eeca3325",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180504062,
+        "stop" : 1639180506277,
+        "duration" : 2215
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "f3bb573117f6dd1c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180716949,
+        "stop" : 1639180716950,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "1e09e84c8ff97cf8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181471036,
+        "stop" : 1639181471036,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e6336dc419e59748",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182210978,
+        "stop" : 1639182210978,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e3b66841fc9a8c3e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181806391,
+        "stop" : 1639181806391,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"1984\"",
+      "uid" : "a56e5ce970225d5c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182479332,
+        "stop" : 1639182482710,
+        "duration" : 3378
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "ce4b108a25801210",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180605141,
+        "stop" : 1639180605141,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "2797161195c7cfbc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181952216,
+        "stop" : 1639181958399,
+        "duration" : 6183
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "12152a48ce0e79dc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177562824,
+        "stop" : 1639177562826,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e61cc9e5231b3c31",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182210966,
+        "stop" : 1639182210968,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "caac6b86541e729",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183491775,
+        "stop" : 1639183491775,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "ff79ba86e22bd97c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181051315,
+        "stop" : 1639181051316,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e6b9fbb9b5c18043",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180703960,
+        "stop" : 1639180703960,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "15dce0cd573c9bb8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182478803,
+        "stop" : 1639182478803,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Almada\"",
+      "uid" : "17ac56d4e085c794",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177853008,
+        "stop" : 1639177855616,
+        "duration" : 2608
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I add the book to the shopping cart",
+      "uid" : "44b6dba1079d99d7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182702885,
+        "stop" : 1639182702960,
+        "duration" : 75
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "a230b87f1d315c3f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181272604,
+        "stop" : 1639181272604,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I change the view",
+      "uid" : "36d8a084eb64bd45",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183441318,
+        "stop" : 1639183461423,
+        "duration" : 20105
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "f2db676ecbc5e72d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181761006,
+        "stop" : 1639181763238,
+        "duration" : 2232
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the first comment is from \"22 Ago 2018\"",
+      "uid" : "61bd1f8da8709202",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183483653,
+        "stop" : 1639183491775,
+        "duration" : 8122
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "bf72a699eb4464cf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181950046,
+        "stop" : 1639181952216,
+        "duration" : 2170
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "860bb4379b1177be",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181051321,
+        "stop" : 1639181051321,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "f8b4366c7a4f9418",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183359418,
+        "stop" : 1639183360759,
+        "duration" : 1341
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "249266c4683b3164",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179651198,
+        "stop" : 1639179651198,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "867a0ed6d27871bd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182210976,
+        "stop" : 1639182210976,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "54dc4a0c31edd750",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182526435,
+        "stop" : 1639182528775,
+        "duration" : 2340
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the value is the price of the book plus shipping",
+      "uid" : "2b071f0875ac28e5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183370737,
+        "stop" : 1639183370796,
+        "duration" : 59
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the number of items are one",
+      "uid" : "27bd594f3399128e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183298189,
+        "stop" : 1639183305034,
+        "duration" : 6845
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "9e71373379996236",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180769420,
+        "stop" : 1639180769420,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"1984\" in the results",
+      "uid" : "67513324cdd0ac73",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182475513,
+        "stop" : 1639182478491,
+        "duration" : 2978
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"George\"",
+      "uid" : "78c98fccf81a995b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183436906,
+        "stop" : 1639183441318,
+        "duration" : 4412
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "d8941f4cc3f26fe6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180502887,
+        "stop" : 1639180502888,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e768ff96c5bfc880",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181066319,
+        "stop" : 1639181066320,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "994c7620a645ce0e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639182534869,
+        "stop" : 1639182540000,
+        "duration" : 5131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "a09bf28ec7e35745",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179833153,
+        "stop" : 1639179839278,
+        "duration" : 6125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the number of items are one",
+      "uid" : "7fa6445c03937247",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183504497,
+        "stop" : 1639183511489,
+        "duration" : 6992
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "ddcb5d506ac79955",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177622172,
+        "stop" : 1639177623645,
+        "duration" : 1473
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "434a79f01208415b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177851779,
+        "stop" : 1639177851779,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "1dec48e2076ac7c5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181471040,
+        "stop" : 1639181471040,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"1984\"",
+      "uid" : "c7203424280c6f4f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183479208,
+        "stop" : 1639183482218,
+        "duration" : 3010
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "f646d8b2554a821b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182089255,
+        "stop" : 1639182095287,
+        "duration" : 6032
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "b1b32019b1a1c3ff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182725668,
+        "stop" : 1639182728255,
+        "duration" : 2587
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "513623b06ace21b9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177622167,
+        "stop" : 1639177622167,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "65b1eb98c492b234",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182492385,
+        "stop" : 1639182493051,
+        "duration" : 666
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "406559afed0242c6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177851778,
+        "stop" : 1639177851778,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"Fascism and Democracy\" in the results",
+      "uid" : "9672f45f6e7c82f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182502480,
+        "stop" : 1639182503451,
+        "duration" : 971
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "d00435a0a60e28db",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182739498,
+        "stop" : 1639182739498,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "2c2839b920f8f631",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177562831,
+        "stop" : 1639177562832,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "2f74bda0f8f7e4f1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182525821,
+        "stop" : 1639182525821,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "102be4abf4d51426",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179829338,
+        "stop" : 1639179829338,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "6fff63b2d12d4751",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183471476,
+        "stop" : 1639183472356,
+        "duration" : 880
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "3396f9a12b6091d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179661305,
+        "stop" : 1639179661305,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "750350f7f413f0fd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639181061269,
+        "stop" : 1639181066319,
+        "duration" : 5050
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "63222e0205666c11",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639180515445,
+        "stop" : 1639180515445,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "bb74c6f20da5a852",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183187654,
+        "stop" : 1639183187655,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"Fascism and Democracy\"",
+      "uid" : "325bc8175d471ad1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183189582,
+        "stop" : 1639183190798,
+        "duration" : 1216
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "64fe8b8f61274bbd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177562835,
+        "stop" : 1639177562836,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I add the book to the shopping cart",
+      "uid" : "aa64333ee17d942c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182503451,
+        "stop" : 1639182503771,
+        "duration" : 320
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "fdd3d0468caa16e0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183478574,
+        "stop" : 1639183478574,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Almada\"",
+      "uid" : "b783b5ac50ab38cd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179830706,
+        "stop" : 1639179833153,
+        "duration" : 2447
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "798b6b33c807249f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182492377,
+        "stop" : 1639182492377,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "96472d50ee4e9a00",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179484573,
+        "stop" : 1639179484574,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"1984\"",
+      "uid" : "49c4596a53eb9b9c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182473066,
+        "stop" : 1639182475513,
+        "duration" : 2447
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "2ba87a2a4ec10787",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179829337,
+        "stop" : 1639179829337,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "9d5e2f239e4e976e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183187655,
+        "stop" : 1639183189581,
+        "duration" : 1926
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the value is the price of the book plus shipping",
+      "uid" : "c3826a2cb441c094",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639183199698,
+        "stop" : 1639183199766,
+        "duration" : 68
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"George\"",
+      "uid" : "f8053a6cf4704108",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182438634,
+        "stop" : 1639182441695,
+        "duration" : 3061
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "60ce9e2faa15982e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177865665,
+        "stop" : 1639177865665,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "b29c62af3cfcd286",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179661247,
+        "stop" : 1639179661305,
+        "duration" : 58
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "62cd9bea1adabacf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1639180716949,
+        "stop" : 1639180716949,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the value is the price of the book plus shipping",
+      "uid" : "22ad82c404cc08b1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183305034,
+        "stop" : 1639183305100,
+        "duration" : 66
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"Fascism and Democracy\"",
+      "uid" : "bb6d6eb8bbea25a7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183360759,
+        "stop" : 1639183362156,
+        "duration" : 1397
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the value is the price of the book plus shipping",
+      "uid" : "d9034db610a7f82e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639182725048,
+        "stop" : 1639182725117,
+        "duration" : 69
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "8ff22cd47e268120",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182084364,
+        "stop" : 1639182084364,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "29bf2e9d156b7e7a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182534818,
+        "stop" : 1639182534869,
+        "duration" : 51
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "4c9ed35872b5fa38",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177562836,
+        "stop" : 1639177563992,
+        "duration" : 1156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "abd216bfdc84b778",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181276393,
+        "stop" : 1639181282435,
+        "duration" : 6042
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "e69e74879be1c1a1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180703957,
+        "stop" : 1639180703958,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7773860c72dcaca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181821155,
+        "stop" : 1639181821156,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "cae38c980f3107f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183526049,
+        "stop" : 1639183526049,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Almada\"",
+      "uid" : "59556cefc6a84d7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179486004,
+        "stop" : 1639179488419,
+        "duration" : 2415
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "bfcfd94fe623d617",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182084367,
+        "stop" : 1639182084367,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "b2a5ad45cf4dd012",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177622171,
+        "stop" : 1639177622171,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4c4d63890b4c0bd7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180593104,
+        "stop" : 1639180593105,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "852fa5816e94041e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183511562,
+        "stop" : 1639183512214,
+        "duration" : 652
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "ddddfeda1043ccb6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181471030,
+        "stop" : 1639181471031,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "df6a78895dea8429",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181806388,
+        "stop" : 1639181806389,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "2bbebc6227fb7b52",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177851776,
+        "stop" : 1639177851777,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "753dcbf1e6620b6d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180616331,
+        "stop" : 1639180616387,
+        "duration" : 56
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4a08193a3ad53fa7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181806387,
+        "stop" : 1639181806387,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "ca9fd96273379578",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181806390,
+        "stop" : 1639181806390,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "cda0d02414aa68bc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183199766,
+        "stop" : 1639183199766,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "d9a7285a7a7a776",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183500666,
+        "stop" : 1639183500666,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the value is the price of the book plus shipping",
+      "uid" : "bdd3c3e145d3dd9e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639182897453,
+        "stop" : 1639182897515,
+        "duration" : 62
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "73ac9269e9c120f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181471043,
+        "stop" : 1639181471043,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4c4546291aeb8e5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181948506,
+        "stop" : 1639181948506,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "96f6025c280a50bf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181272604,
+        "stop" : 1639181273965,
+        "duration" : 1361
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify that the store is schedule is from ten to eleven",
+      "uid" : "c5ecb7814744944b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639181282480,
+        "stop" : 1639181287529,
+        "duration" : 5049
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I choose the modal and write \"Lisboa\"",
+      "uid" : "3fa7357c35d9fdac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181472331,
+        "stop" : 1639181474927,
+        "duration" : 2596
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"Fascism and Democracy\"",
+      "uid" : "6a223c19bc4d5955",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182501084,
+        "stop" : 1639182502480,
+        "duration" : 1396
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the author is \"George Orwell\"",
+      "uid" : "e6ee2f348d3d2a25",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183478328,
+        "stop" : 1639183478392,
+        "duration" : 64
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "When I search by \"1984\"",
+      "uid" : "e920213b988fe960",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182493051,
+        "stop" : 1639182495375,
+        "duration" : 2324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I check if the value is the price of the book plus shipping",
+      "uid" : "9087eba2c06ddee0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639182525751,
+        "stop" : 1639182525811,
+        "duration" : 60
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "858c1d6dd291148b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181963596,
+        "stop" : 1639181963596,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "c313857a8cbb4357",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182540000,
+        "stop" : 1639182540000,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "730b345d2b754223",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182471839,
+        "stop" : 1639182471839,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "a01903353d8eda63",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181471043,
+        "stop" : 1639181472331,
+        "duration" : 1288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "85f0557cace544b9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179509642,
+        "stop" : 1639179509642,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "9ba0290fbfa8795d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177622168,
+        "stop" : 1639177622169,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "6537fa1fea03b7f1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181272602,
+        "stop" : 1639181272603,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I verify if the postal code is \"2810-354\"",
+      "uid" : "3ca7a455555253be",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181282436,
+        "stop" : 1639181282480,
+        "duration" : 44
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "64bbb07594697cf7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180605144,
+        "stop" : 1639180605144,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "79bca4d35d886f60",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182725130,
+        "stop" : 1639182725668,
+        "duration" : 538
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I add the book to the shopping cart",
+      "uid" : "a0d8668acf7cc105",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183298052,
+        "stop" : 1639183298189,
+        "duration" : 137
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "6a99518407c6d5ac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1639177586927,
+        "stop" : 1639177586985,
+        "duration" : 58
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "4a4ba220fa766938",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179651197,
+        "stop" : 1639179651197,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the Almada store",
+      "uid" : "de2c63347430c937",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182528775,
+        "stop" : 1639182534818,
+        "duration" : 6043
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "d71255e261179b89",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182084363,
+        "stop" : 1639182084363,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "949711b2e5d42712",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181948507,
+        "stop" : 1639181950046,
+        "duration" : 1539
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "7d9fde54731a8b80",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182698069,
+        "stop" : 1639182698070,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "And I validate that the ISBN \"9789726081890\"",
+      "uid" : "5ad32681aecaae0e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183478392,
+        "stop" : 1639183478440,
+        "duration" : 48
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "b46975e70e0ea2af",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181051327,
+        "stop" : 1639181051327,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Then I choose the book \"Fascism and Democracy\" in the results",
+      "uid" : "c88f2c9772670eb1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183190798,
+        "stop" : 1639183192514,
+        "duration" : 1716
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "97572535eb182e43",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183478583,
+        "stop" : 1639183478583,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "",
+      "uid" : "fe5e16578f13e1e4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183511562,
+        "stop" : 1639183511562,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    }, {
+      "name" : "Given I am on the homepage",
+      "uid" : "a511c5689aec11ba",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639183294377,
+        "stop" : 1639183295515,
+        "duration" : 1138
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.93" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

@@ -1,0 +1,321 @@
+{
+  "uid" : "b783b5ac50ab38cd",
+  "name" : "When I choose the modal and write \"Almada\"",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon.When I choose the modal and write \"Almada\"",
+  "historyId" : "7a6e7aa805ea4194d3f103a9612f45a1",
+  "time" : {
+    "start" : 1639179830706,
+    "stop" : 1639179833153,
+    "duration" : 2447
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639179830707,
+        "stop" : 1639179830742,
+        "duration" : 35
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7c61c4e1bdef107c",
+        "name" : "Request",
+        "source" : "7c61c4e1bdef107c.json",
+        "type" : "application/json",
+        "size" : 94
+      }, {
+        "uid" : "30533a2ae7f6ba6a",
+        "name" : "Response",
+        "source" : "30533a2ae7f6ba6a.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/84469f36-07ef-4968-bda8-70cb0945fc99/click",
+      "time" : {
+        "start" : 1639179830746,
+        "stop" : 1639179830790,
+        "duration" : 44
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639179830790,
+        "stop" : 1639179830820,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e5382c11777e119",
+        "name" : "Request",
+        "source" : "e5382c11777e119.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "4bf430d1f193f363",
+        "name" : "Response",
+        "source" : "4bf430d1f193f363.json",
+        "type" : "application/json",
+        "size" : 1034
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1639179830824,
+        "stop" : 1639179830838,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "206f2ac85d96acb3",
+        "name" : "Request",
+        "source" : "206f2ac85d96acb3.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "8666a14f72829190",
+        "name" : "Response",
+        "source" : "8666a14f72829190.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1639179831326,
+        "stop" : 1639179831335,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3d12eb167ea360e9",
+        "name" : "Request",
+        "source" : "3d12eb167ea360e9.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "1fc5354a4f8ce4b3",
+        "name" : "Response",
+        "source" : "1fc5354a4f8ce4b3.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639179831336,
+        "stop" : 1639179831345,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1163b91bdafbc69e",
+        "name" : "Request",
+        "source" : "1163b91bdafbc69e.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "a34153b914d9b7ca",
+        "name" : "Response",
+        "source" : "a34153b914d9b7ca.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/f4e8761f-9786-4591-b9c8-68805a21b243/value",
+      "time" : {
+        "start" : 1639179831348,
+        "stop" : 1639179831381,
+        "duration" : 33
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "94c8c92d8cb0b52a",
+        "name" : "Request",
+        "source" : "94c8c92d8cb0b52a.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639179831382,
+        "stop" : 1639179831391,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2a0afcbe0297e62",
+        "name" : "Request",
+        "source" : "2a0afcbe0297e62.json",
+        "type" : "application/json",
+        "size" : 73
+      }, {
+        "uid" : "d2abcf58ae48ee07",
+        "name" : "Response",
+        "source" : "d2abcf58ae48ee07.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/436b1c07-ec68-49ce-9dea-991706afe671/click",
+      "time" : {
+        "start" : 1639179831395,
+        "stop" : 1639179833153,
+        "duration" : 1758
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 9,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 13
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I choose the modal and write \"Almada\""
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ffaad8073fc9bf4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179652579,
+        "stop" : 1639179655155,
+        "duration" : 2576
+      }
+    }, {
+      "uid" : "59556cefc6a84d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179486004,
+        "stop" : 1639179488419,
+        "duration" : 2415
+      }
+    }, {
+      "uid" : "17ac56d4e085c794",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177853008,
+        "stop" : 1639177855616,
+        "duration" : 2608
+      }
+    }, {
+      "uid" : "cd47d74b9d64ac65",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177623645,
+        "stop" : 1639177625769,
+        "duration" : 2124
+      }
+    }, {
+      "uid" : "ebf39c62eb5b4f8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177563992,
+        "stop" : 1639177586927,
+        "duration" : 22935
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b783b5ac50ab38cd.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

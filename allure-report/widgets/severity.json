@@ -1,0 +1,401 @@
+[ {
+  "uid" : "36d8a084eb64bd45",
+  "name" : "And I change the view",
+  "time" : {
+    "start" : 1639183441318,
+    "stop" : 1639183461423,
+    "duration" : 20105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc8e5664bbf42fc4",
+  "name" : "Then I choose the book \"1984\" in the results",
+  "time" : {
+    "start" : 1639183482218,
+    "stop" : 1639183483554,
+    "duration" : 1336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fff63b2d12d4751",
+  "name" : "Given I am on the homepage",
+  "time" : {
+    "start" : 1639183471476,
+    "stop" : 1639183472356,
+    "duration" : 880
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ad32681aecaae0e",
+  "name" : "And I validate that the ISBN \"9789726081890\"",
+  "time" : {
+    "start" : 1639183478392,
+    "stop" : 1639183478440,
+    "duration" : 48
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b783b5ac50ab38cd",
+  "name" : "When I choose the modal and write \"Almada\"",
+  "time" : {
+    "start" : 1639179830706,
+    "stop" : 1639179833153,
+    "duration" : 2447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2dfb3ad94a384f7",
+  "name" : "Then I choose the Almada store",
+  "time" : {
+    "start" : 1639183514789,
+    "stop" : 1639183520861,
+    "duration" : 6072
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7203424280c6f4f",
+  "name" : "When I search by \"1984\"",
+  "time" : {
+    "start" : 1639183479208,
+    "stop" : 1639183482218,
+    "duration" : 3010
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cdaac9bd6cf6b45",
+  "name" : "And I validate that the number of pages are \"314\"",
+  "time" : {
+    "start" : 1639183478440,
+    "stop" : 1639183478497,
+    "duration" : 57
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "852fa5816e94041e",
+  "name" : "Given I am on the homepage",
+  "time" : {
+    "start" : 1639183511562,
+    "stop" : 1639183512214,
+    "duration" : 652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c158b23c2c817f9f",
+  "name" : "Given I am on the homepage",
+  "time" : {
+    "start" : 1639183478583,
+    "stop" : 1639183479208,
+    "duration" : 625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97b1d59b1c4b645",
+  "name" : "Then I choose the book \"Fascism and Democracy\" in the results",
+  "time" : {
+    "start" : 1639183502980,
+    "stop" : 1639183504198,
+    "duration" : 1218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6664a80bb130ccff",
+  "name" : "And I verify if the postal code is \"2810-354\"",
+  "time" : {
+    "start" : 1639183520861,
+    "stop" : 1639183520911,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b839df4357852b9",
+  "name" : "And I validate that the book have \"world\" in description",
+  "time" : {
+    "start" : 1639183471443,
+    "stop" : 1639183471465,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4f3631de982958c",
+  "name" : "When I choose the modal and write \"Lisboa\"",
+  "time" : {
+    "start" : 1639183512214,
+    "stop" : 1639183514789,
+    "duration" : 2575
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f60d27bc4365c56",
+  "name" : "",
+  "time" : {
+    "start" : 1639183471465,
+    "stop" : 1639183471466,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96a7f1080cfd60b8",
+  "name" : "And I choose the author biography",
+  "time" : {
+    "start" : 1639183496900,
+    "stop" : 1639183500567,
+    "duration" : 3667
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20da8ae5a1b93ecb",
+  "name" : "And I validate that theres no classifications with one star",
+  "time" : {
+    "start" : 1639183483554,
+    "stop" : 1639183483653,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c44602f97484a3c9",
+  "name" : "When I search by \"1984\"",
+  "time" : {
+    "start" : 1639183472356,
+    "stop" : 1639183475691,
+    "duration" : 3335
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c8d32fc6330343b",
+  "name" : "When I search by \"Fascism and Democracy\"",
+  "time" : {
+    "start" : 1639183501499,
+    "stop" : 1639183502980,
+    "duration" : 1481
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9fa7400795491dc",
+  "name" : "When I search by \"1984\"",
+  "time" : {
+    "start" : 1639183492524,
+    "stop" : 1639183495810,
+    "duration" : 3286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d84213094cd2a3c0",
+  "name" : "And I verify that the store is schedule is from ten to eleven",
+  "time" : {
+    "start" : 1639183520911,
+    "stop" : 1639183526049,
+    "duration" : 5138
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bbd849b3bb7b079d",
+  "name" : "Given I am on the homepage",
+  "time" : {
+    "start" : 1639183500674,
+    "stop" : 1639183501499,
+    "duration" : 825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fdd3d0468caa16e0",
+  "name" : "",
+  "time" : {
+    "start" : 1639183478574,
+    "stop" : 1639183478574,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6ee2f348d3d2a25",
+  "name" : "And I validate that the author is \"George Orwell\"",
+  "time" : {
+    "start" : 1639183478328,
+    "stop" : 1639183478392,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78c98fccf81a995b",
+  "name" : "When I search by \"George\"",
+  "time" : {
+    "start" : 1639183436906,
+    "stop" : 1639183441318,
+    "duration" : 4412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52ec8558b2c29402",
+  "name" : "And I check if \"Animal farm\" is from the author",
+  "time" : {
+    "start" : 1639183500567,
+    "stop" : 1639183500666,
+    "duration" : 99
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d056384869f495b",
+  "name" : "Then I choose the book \"1984\" in the results",
+  "time" : {
+    "start" : 1639183495810,
+    "stop" : 1639183496900,
+    "duration" : 1090
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d9a7285a7a7a776",
+  "name" : "",
+  "time" : {
+    "start" : 1639183500666,
+    "stop" : 1639183500666,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a821900a82196f",
+  "name" : "Then I choose the book \"1984\" in the results",
+  "time" : {
+    "start" : 1639183475691,
+    "stop" : 1639183478328,
+    "duration" : 2637
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fa6445c03937247",
+  "name" : "And I check if the number of items are one",
+  "time" : {
+    "start" : 1639183504497,
+    "stop" : 1639183511489,
+    "duration" : 6992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61bd1f8da8709202",
+  "name" : "And I validate that the first comment is from \"22 Ago 2018\"",
+  "time" : {
+    "start" : 1639183483653,
+    "stop" : 1639183491775,
+    "duration" : 8122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89affb709729fda0",
+  "name" : "And I check if the value is the price of the book plus shipping",
+  "time" : {
+    "start" : 1639183511489,
+    "stop" : 1639183511553,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43e3b3a0be4d59e6",
+  "name" : "And I validate that the book dimensions are \"13 x 21 cm\"",
+  "time" : {
+    "start" : 1639183478497,
+    "stop" : 1639183478574,
+    "duration" : 77
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cae38c980f3107f7",
+  "name" : "",
+  "time" : {
+    "start" : 1639183526049,
+    "stop" : 1639183526049,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "caac6b86541e729",
+  "name" : "",
+  "time" : {
+    "start" : 1639183491775,
+    "stop" : 1639183491775,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aec8f516017194d",
+  "name" : "",
+  "time" : {
+    "start" : 1639183511553,
+    "stop" : 1639183511553,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a35036cf8341c35e",
+  "name" : "And I add the book to the shopping cart",
+  "time" : {
+    "start" : 1639183504198,
+    "stop" : 1639183504497,
+    "duration" : 299
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fff45d1e112f361",
+  "name" : "Given I am on the homepage",
+  "time" : {
+    "start" : 1639183435669,
+    "stop" : 1639183436906,
+    "duration" : 1237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90eab08cc21dde0f",
+  "name" : "Given I am on the homepage",
+  "time" : {
+    "start" : 1639183491783,
+    "stop" : 1639183492524,
+    "duration" : 741
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29f7b3559d5eaeb2",
+  "name" : "And I validate that \"Fascism and Democracy\" appear in the results",
+  "time" : {
+    "start" : 1639183461423,
+    "stop" : 1639183471442,
+    "duration" : 10019
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

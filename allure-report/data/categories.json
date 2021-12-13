@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Error: expect(received).toBe(expected) // Object.is equality",
+      "children" : [ {
+        "name" : "And I verify that the store is schedule is from ten to eleven",
+        "uid" : "d84213094cd2a3c0",
+        "parentUid" : "163ffda834d9fb7412512218c1101d2c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1639183520911,
+          "stop" : 1639183526049,
+          "duration" : 5138
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-96.0.4664.93" ]
+      } ],
+      "uid" : "163ffda834d9fb7412512218c1101d2c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

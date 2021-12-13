@@ -1,0 +1,103 @@
+{
+  "uid" : "29f7b3559d5eaeb2",
+  "name" : "And I validate that \"Fascism and Democracy\" appear in the results",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page.And I validate that \"Fascism and Democracy\" appear in the results",
+  "historyId" : "3a020b87ade13a6d30383c9da743a508",
+  "time" : {
+    "start" : 1639183461423,
+    "stop" : 1639183471442,
+    "duration" : 10019
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1639183471430,
+        "stop" : 1639183471441,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c82d3ca22e636a6a",
+        "name" : "Request",
+        "source" : "c82d3ca22e636a6a.json",
+        "type" : "application/json",
+        "size" : 73
+      }, {
+        "uid" : "64555f5e6f5e4720",
+        "name" : "Response",
+        "source" : "64555f5e6f5e4720.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I validate that \"Fascism and Democracy\" appear in the results"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for George in the Fnac page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2ff822c18481935a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182461794,
+        "stop" : 1639182471816,
+        "duration" : 10022
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29f7b3559d5eaeb2.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

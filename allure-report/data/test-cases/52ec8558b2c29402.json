@@ -1,0 +1,124 @@
+{
+  "uid" : "52ec8558b2c29402",
+  "name" : "And I check if \"Animal farm\" is from the author",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the author biography.And I check if \"Animal farm\" is from the author",
+  "historyId" : "3f4767fef2f80ac0f2e74175a2cb8665",
+  "time" : {
+    "start" : 1639183500567,
+    "stop" : 1639183500666,
+    "duration" : 99
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1639183500568,
+        "stop" : 1639183500633,
+        "duration" : 65
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bfcbc4daef965b3e",
+        "name" : "Request",
+        "source" : "bfcbc4daef965b3e.json",
+        "type" : "application/json",
+        "size" : 162
+      }, {
+        "uid" : "a9ccfa82ffe06402",
+        "name" : "Response",
+        "source" : "a9ccfa82ffe06402.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/230a4ce4-7282-445d-b8cb-9f28171b16e9/text",
+      "time" : {
+        "start" : 1639183500635,
+        "stop" : 1639183500666,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eb90d1de607201cc",
+        "name" : "Response",
+        "source" : "eb90d1de607201cc.json",
+        "type" : "application/json",
+        "size" : 21
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the author biography"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the author biography"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I check if \"Animal farm\" is from the author"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for 1984 book and verify the author biography"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8b7073faefdb1f7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182500294,
+        "stop" : 1639182500317,
+        "duration" : 23
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52ec8558b2c29402.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}

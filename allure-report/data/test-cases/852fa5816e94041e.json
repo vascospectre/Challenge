@@ -1,0 +1,278 @@
+{
+  "uid" : "852fa5816e94041e",
+  "name" : "Given I am on the homepage",
+  "fullName" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon.Given I am on the homepage",
+  "historyId" : "812f468b364994e7c4b28ac42d986c1c",
+  "time" : {
+    "start" : 1639183511562,
+    "stop" : 1639183512214,
+    "duration" : 652
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1639183511562,
+        "stop" : 1639183511566,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1291c1cd9296d1d5",
+        "name" : "Response",
+        "source" : "1291c1cd9296d1d5.json",
+        "type" : "application/json",
+        "size" : 59
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1639183511566,
+        "stop" : 1639183512213,
+        "duration" : 647
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4d5d806696c8401e",
+        "name" : "Request",
+        "source" : "4d5d806696c8401e.json",
+        "type" : "application/json",
+        "size" : 35
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testClass",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the homepage"
+  }, {
+    "name" : "package",
+    "value" : "GoContact Challenge in Fnac WebPage: Search for a shop in Lisbon"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.93"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "79bca4d35d886f60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182725130,
+        "stop" : 1639182725668,
+        "duration" : 538
+      }
+    }, {
+      "uid" : "cf67f22afd131e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182525821,
+        "stop" : 1639182526435,
+        "duration" : 614
+      }
+    }, {
+      "uid" : "ede70002f7447678",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182210978,
+        "stop" : 1639182212857,
+        "duration" : 1879
+      }
+    }, {
+      "uid" : "f70adf824b8f88b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639182084368,
+        "stop" : 1639182086646,
+        "duration" : 2278
+      }
+    }, {
+      "uid" : "949711b2e5d42712",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181948507,
+        "stop" : 1639181950046,
+        "duration" : 1539
+      }
+    }, {
+      "uid" : "e089bca5ba47ecea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181806391,
+        "stop" : 1639181807816,
+        "duration" : 1425
+      }
+    }, {
+      "uid" : "e21d0f6d8f52c1b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181759750,
+        "stop" : 1639181761006,
+        "duration" : 1256
+      }
+    }, {
+      "uid" : "a01903353d8eda63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181471043,
+        "stop" : 1639181472331,
+        "duration" : 1288
+      }
+    }, {
+      "uid" : "96f6025c280a50bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181272604,
+        "stop" : 1639181273965,
+        "duration" : 1361
+      }
+    }, {
+      "uid" : "dbe1f150024af440",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639181051327,
+        "stop" : 1639181052694,
+        "duration" : 1367
+      }
+    }, {
+      "uid" : "ec8d808d81efccae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180769420,
+        "stop" : 1639180771229,
+        "duration" : 1809
+      }
+    }, {
+      "uid" : "e69cee6b4502f608",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180703962,
+        "stop" : 1639180705434,
+        "duration" : 1472
+      }
+    }, {
+      "uid" : "cc143a0b5eb36c94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180605144,
+        "stop" : 1639180607127,
+        "duration" : 1983
+      }
+    }, {
+      "uid" : "37d8b0e045686bea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180580012,
+        "stop" : 1639180581201,
+        "duration" : 1189
+      }
+    }, {
+      "uid" : "d3b09748a306dc49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639180502898,
+        "stop" : 1639180504062,
+        "duration" : 1164
+      }
+    }, {
+      "uid" : "21b8e4b40087692f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179829339,
+        "stop" : 1639179830706,
+        "duration" : 1367
+      }
+    }, {
+      "uid" : "d33a2843c37f2559",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179651198,
+        "stop" : 1639179652579,
+        "duration" : 1381
+      }
+    }, {
+      "uid" : "8e76f7064a32a592",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639179484574,
+        "stop" : 1639179486004,
+        "duration" : 1430
+      }
+    }, {
+      "uid" : "7203a8bfab330ea1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177851781,
+        "stop" : 1639177853008,
+        "duration" : 1227
+      }
+    }, {
+      "uid" : "ddcb5d506ac79955",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177622172,
+        "stop" : 1639177623645,
+        "duration" : 1473
+      }
+    }, {
+      "uid" : "4c9ed35872b5fa38",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639177562836,
+        "stop" : 1639177563992,
+        "duration" : 1156
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "852fa5816e94041e.json",
+  "parameterValues" : [ "chrome-96.0.4664.93" ]
+}
